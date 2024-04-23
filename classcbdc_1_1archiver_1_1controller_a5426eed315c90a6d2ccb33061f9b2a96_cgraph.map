@@ -1,0 +1,8 @@
+<map id="cbdc::archiver::controller::digest_block" name="cbdc::archiver::controller::digest_block">
+<area shape="rect" id="Node000001" title="Adds a block to the archiver database." alt="" coords="5,29,166,70"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="49,29,47,19,53,10,66,5,86,3,106,5,119,11,116,16,105,10,85,8,67,10,57,15,52,20,54,28"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc.html#aed9c6313b2ae6e3d7f01340ab5a3076b" title="Serialize object into nuraft::buffer using a cbdc::nuraft_serializer." alt="" coords="214,37,340,63"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="166,47,198,47,198,52,166,52"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="388,37,527,63"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="340,47,373,47,373,52,340,52"/>
+</map>

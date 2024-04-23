@@ -1,0 +1,17 @@
+<map id="cbdc::transaction::validation::check_p2pk_witness" name="cbdc::transaction::validation::check_p2pk_witness">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,158,141"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc_1_1transaction_1_1validation.html#a1259a10b7c4d5708040a9c6d332f6589" title=" " alt="" coords="206,5,358,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,82,195,65,197,70,154,87"/>
+<area shape="rect" id="Node000004" href="$namespacecbdc_1_1transaction_1_1validation.html#ae0bd11e125718e02af61645696f5e8cd" title=" " alt="" coords="206,85,358,141"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="158,111,190,111,190,116,158,116"/>
+<area shape="rect" id="Node000005" href="$namespacecbdc_1_1transaction_1_1validation.html#adc89367934be44c3a98285ba10d35755" title=" " alt="" coords="206,165,358,221"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="154,139,197,157,195,161,152,144"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc.html#a683b1822c4294075ddecf27a8774d76e" title="Calculates the SHA256 hash of the specified data." alt="" coords="411,20,526,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="359,31,395,31,395,36,359,36"/>
+<area shape="rect" id="Node000006" href="$namespacecbdc_1_1transaction.html#a43a4b189920471ef5363e91bc908a892" title="Calculates the unique hash of a full transaction." alt="" coords="406,173,531,214"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="359,191,391,191,391,196,359,196"/>
+<area shape="rect" id="Node000007" href="$namespacecbdc.html#aed9c6313b2ae6e3d7f01340ab5a3076b" title="Serialize object into nuraft::buffer using a cbdc::nuraft_serializer." alt="" coords="579,180,706,206"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="532,191,564,191,564,196,532,196"/>
+<area shape="rect" id="Node000008" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="754,180,893,206"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="706,191,738,191,738,196,706,196"/>
+</map>

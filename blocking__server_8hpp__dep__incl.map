@@ -1,0 +1,57 @@
+<map id="blocking_server.hpp" name="blocking_server.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="593,5,729,31"/>
+<area shape="rect" id="Node000002" href="$parsec_2ticket__machine_2state__machine_8hpp.html" title=" " alt="" coords="152,79,282,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="578,35,283,83,282,77,577,30"/>
+<area shape="rect" id="Node000007" href="$uhs_2twophase_2locking__shard_2state__machine_8hpp.html" title=" " alt="" coords="672,79,802,105"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="687,40,726,77,723,81,683,44"/>
+<area shape="rect" id="Node000012" href="$status__server_8hpp.html" title=" " alt="" coords="523,79,647,105"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="639,44,600,81,596,77,635,40"/>
+<area shape="rect" id="Node000014" href="$tcp__server_8hpp.html" title=" " alt="" coords="995,79,1101,105"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="742,32,995,78,994,83,741,37"/>
+<area shape="rect" id="Node000003" href="$parsec_2ticket__machine_2controller_8cpp.html" title=" " alt="" coords="211,226,309,252"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,119,198,148,198,163,201,177,219,204,243,224,239,228,215,207,196,179,192,164,193,147,201,118"/>
+<area shape="rect" id="Node000004" href="$parsec_2ticket__machine_2controller_8hpp.html" title=" " alt="" coords="211,153,309,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="234,116,255,151,250,154,230,119"/>
+<area shape="rect" id="Node000006" href="$parsec_2ticket__machine_2state__machine_8cpp.html" title=" " alt="" coords="5,153,136,178"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="180,114,97,154,94,150,177,109"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="263,194,263,226,257,226,257,194"/>
+<area shape="rect" id="Node000005" href="$ticket__machined_8cpp.html" title=" " alt="" coords="666,226,806,252"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="325,176,666,225,665,230,324,181"/>
+<area shape="rect" id="Node000008" href="$uhs_2twophase_2locking__shard_2controller_8cpp.html" title=" " alt="" coords="831,226,929,252"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="762,113,800,151,871,224,867,228,797,155,759,117"/>
+<area shape="rect" id="Node000009" href="$uhs_2twophase_2locking__shard_2controller_8hpp.html" title=" " alt="" coords="688,153,786,178"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="740,120,740,152,735,152,735,120"/>
+<area shape="rect" id="Node000011" href="$uhs_2twophase_2locking__shard_2state__machine_8cpp.html" title=" " alt="" coords="483,153,613,178"/>
+<area shape="poly" id="edge12_Node000007_Node000011" title=" " alt="" coords="692,113,581,155,579,150,690,108"/>
+<area shape="poly" id="edge10_Node000009_Node000008" title=" " alt="" coords="776,183,857,223,854,228,774,188"/>
+<area shape="rect" id="Node000010" href="$locking__shardd_8cpp.html" title=" " alt="" coords="510,226,642,252"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="697,187,604,228,602,223,695,183"/>
+<area shape="poly" id="edge14_Node000012_Node000009" title=" " alt="" coords="626,109,712,150,710,154,624,114"/>
+<area shape="rect" id="Node000013" href="$status__server_8cpp.html" title=" " alt="" coords="334,153,458,178"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="540,113,429,155,427,150,538,108"/>
+<area shape="poly" id="edge19_Node000014_Node000003" title=" " alt="" coords="980,100,838,118,757,134,677,155,652,168,626,181,540,204,453,220,310,237,309,232,453,215,539,199,624,176,649,163,675,150,755,128,837,113,979,95"/>
+<area shape="poly" id="edge27_Node000014_Node000004" title=" " alt="" coords="980,99,692,118,508,134,322,155,310,157,309,152,321,150,507,129,692,112,979,94"/>
+<area shape="poly" id="edge32_Node000014_Node000005" title=" " alt="" coords="1002,113,901,155,758,228,756,223,899,150,1000,108"/>
+<area shape="poly" id="edge22_Node000014_Node000008" title=" " alt="" coords="1048,121,1041,151,1025,180,1004,198,980,213,930,231,929,226,977,208,1001,194,1020,177,1036,149,1043,120"/>
+<area shape="poly" id="edge28_Node000014_Node000009" title=" " alt="" coords="981,111,788,155,786,150,980,106"/>
+<area shape="rect" id="Node000015" href="$agentd_8cpp.html" title=" " alt="" coords="1399,226,1483,252"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="1117,93,1170,99,1231,109,1293,126,1353,150,1379,167,1402,187,1434,224,1430,227,1398,191,1376,171,1351,155,1292,131,1230,114,1169,104,1116,98"/>
+<area shape="rect" id="Node000016" href="$parsec_2runtime__locking__shard_2controller_8cpp.html" title=" " alt="" coords="965,226,1064,252"/>
+<area shape="poly" id="edge18_Node000014_Node000016" title=" " alt="" coords="1064,118,1072,147,1072,164,1069,179,1052,207,1032,228,1028,224,1048,204,1064,177,1067,163,1066,148,1058,120"/>
+<area shape="rect" id="Node000017" href="$uhs_2atomizer_2sentinel_2controller_8cpp.html" title=" " alt="" coords="1415,153,1513,178"/>
+<area shape="poly" id="edge20_Node000014_Node000017" title=" " alt="" coords="1117,102,1415,153,1414,158,1116,107"/>
+<area shape="rect" id="Node000018" href="$uhs_2twophase_2coordinator_2controller_8cpp.html" title=" " alt="" coords="1537,153,1636,178"/>
+<area shape="poly" id="edge21_Node000014_Node000018" title=" " alt="" coords="1116,98,1301,119,1526,150,1537,152,1537,157,1525,155,1301,124,1116,103"/>
+<area shape="rect" id="Node000019" href="$uhs_2twophase_2sentinel__2pc_2controller_8cpp.html" title=" " alt="" coords="912,153,1010,178"/>
+<area shape="poly" id="edge23_Node000014_Node000019" title=" " alt="" coords="1023,117,977,154,974,150,1020,113"/>
+<area shape="rect" id="Node000020" href="$parsec_2runtime__locking__shard_2controller_8hpp.html" title=" " alt="" coords="1136,153,1234,178"/>
+<area shape="poly" id="edge24_Node000014_Node000020" title=" " alt="" coords="1086,110,1163,150,1161,154,1083,115"/>
+<area shape="rect" id="Node000022" href="$parsec_2agent_2runners_2lua_2server_8hpp.html" title=" " alt="" coords="1258,153,1339,178"/>
+<area shape="poly" id="edge29_Node000014_Node000022" title=" " alt="" coords="1105,107,1258,150,1257,155,1104,112"/>
+<area shape="poly" id="edge25_Node000020_Node000016" title=" " alt="" coords="1143,187,1045,228,1043,223,1141,182"/>
+<area shape="rect" id="Node000021" href="$runtime__locking__shardd_8cpp.html" title=" " alt="" coords="1087,226,1270,252"/>
+<area shape="poly" id="edge26_Node000020_Node000021" title=" " alt="" coords="1185,194,1182,226,1177,226,1180,194"/>
+<area shape="poly" id="edge30_Node000022_Node000015" title=" " alt="" coords="1338,183,1418,223,1416,228,1335,188"/>
+<area shape="rect" id="Node000023" href="$parsec_2agent_2runners_2lua_2server_8cpp.html" title=" " alt="" coords="1294,226,1375,252"/>
+<area shape="poly" id="edge31_Node000022_Node000023" title=" " alt="" coords="1314,191,1331,225,1326,227,1309,193"/>
+</map>

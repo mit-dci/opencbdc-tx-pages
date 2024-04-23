@@ -1,0 +1,7 @@
+<map id="cbdc::sentinel::interface" name="cbdc::sentinel::interface">
+<area shape="rect" id="Node000001" title="Interface for a sentinel." alt="" coords="90,5,246,31"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1sentinel_1_1controller.html" title="Sentinel implementation." alt="" coords="5,87,165,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,44,100,88,96,84,142,40"/>
+<area shape="rect" id="Node000003" href="$classcbdc_1_1sentinel_1_1rpc_1_1client.html" title="TCP RPC client for sentinels." alt="" coords="188,79,313,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,40,232,77,228,81,189,44"/>
+</map>

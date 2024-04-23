@@ -1,0 +1,13 @@
+<map id="cbdc::config::read_watchtower_options" name="cbdc::config::read_watchtower_options">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,71,150,111"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc_1_1config.html#a61b17ddec3b461c48ff0cdc5cb811f3b" title=" " alt="" coords="198,5,385,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,68,207,49,208,54,147,73"/>
+<area shape="rect" id="Node000004" href="$namespacecbdc_1_1config.html#a89a04621aabd1e76b16726520ab8805f" title=" " alt="" coords="198,71,385,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="150,88,182,88,182,94,150,94"/>
+<area shape="rect" id="Node000005" href="$namespacecbdc_1_1config.html#a5319c9a3975b7afa11f5d61eb6b04051" title=" " alt="" coords="198,136,385,177"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="147,109,208,128,207,133,145,114"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc_1_1config.html#a0b5071435c9c99bc37c13eab007e17f4" title=" " alt="" coords="433,71,620,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,44,437,63,435,68,366,49"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="386,88,417,88,417,94,386,94"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="366,133,435,114,437,119,368,138"/>
+</map>

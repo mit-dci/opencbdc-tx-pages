@@ -1,0 +1,5 @@
+<map id="cbdc::parsec::agent::runner::evm_tx" name="cbdc::parsec::agent::runner::evm_tx">
+<area shape="rect" id="Node000001" title="EVM transaction type." alt="" coords="5,109,138,150"/>
+<area shape="rect" id="Node000002" href="$structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__sig.html" title="EVM signature type." alt="" coords="5,5,138,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,62,74,109,69,109,69,62"/>
+</map>

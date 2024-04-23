@@ -1,0 +1,5 @@
+<map id="cbdc::parsec::runtime_locking_shard::rpc::client" name="cbdc::parsec::runtime_locking_shard::rpc::client">
+<area shape="rect" id="Node000001" title="RPC client for a runtime locking shard cluster." alt="" coords="16,94,159,150"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1parsec_1_1runtime__locking__shard_1_1interface.html" title="Interface for a runtime locking shard." alt="" coords="5,5,170,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,61,90,93,85,93,85,61"/>
+</map>

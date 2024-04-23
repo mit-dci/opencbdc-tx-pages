@@ -1,0 +1,5 @@
+<map id="cbdc::parsec::ticket_machine::state_machine::state_machine" name="cbdc::parsec::ticket_machine::state_machine::state_machine">
+<area shape="rect" id="Node000001" title="Constructor." alt="" coords="5,28,174,84"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1rpc_1_1blocking__server.html#af5739cba03c654acd4adcffcfeaa0c9f" title="Register a handler callback function for processing requests and returning responses." alt="" coords="222,5,396,106"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,53,206,53,206,58,174,58"/>
+</map>

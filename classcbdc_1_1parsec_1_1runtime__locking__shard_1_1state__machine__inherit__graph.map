@@ -1,0 +1,5 @@
+<map id="cbdc::parsec::runtime_locking_shard::state_machine" name="cbdc::parsec::runtime_locking_shard::state_machine">
+<area shape="rect" id="Node000001" title="NuRaft state machine implementation for a runtime locking shard." alt="" coords="6,79,150,135"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,151,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,47,81,78,75,78,75,47"/>
+</map>

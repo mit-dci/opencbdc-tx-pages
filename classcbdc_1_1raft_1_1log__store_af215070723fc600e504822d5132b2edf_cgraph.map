@@ -1,0 +1,7 @@
+<map id="cbdc::raft::log_store::log_entries" name="cbdc::raft::log_store::log_entries">
+<area shape="rect" id="Node000001" title="Return the log entries in the given range of indices." alt="" coords="5,39,139,79"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc_1_1raft.html#a76b3019e4ab57d5f76ea0b272f26667a" title=" " alt="" coords="190,5,316,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,44,175,37,176,43,140,49"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc_1_1raft.html#a5f85615ea5d2afb447d328a0db008119" title=" " alt="" coords="187,71,319,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,68,172,74,171,79,139,73"/>
+</map>

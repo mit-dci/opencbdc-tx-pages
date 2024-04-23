@@ -1,0 +1,7 @@
+<map id="cbdc::transaction::input" name="cbdc::transaction::input">
+<area shape="rect" id="Node000001" title="An input for a new transaction." alt="" coords="80,109,205,150"/>
+<area shape="rect" id="Node000002" href="$structcbdc_1_1transaction_1_1out__point.html" title="The unique identifier of a specific output from a transaction." alt="" coords="5,5,131,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,57,130,107,126,110,89,60"/>
+<area shape="rect" id="Node000003" href="$structcbdc_1_1transaction_1_1output.html" title="An output of a transaction." alt="" coords="155,5,280,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,61,182,87,163,110,159,107,178,83,196,58"/>
+</map>

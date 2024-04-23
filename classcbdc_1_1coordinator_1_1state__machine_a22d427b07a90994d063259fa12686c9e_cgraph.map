@@ -1,0 +1,7 @@
+<map id="cbdc::coordinator::state_machine::commit" name="cbdc::coordinator::state_machine::commit">
+<area shape="rect" id="Node000001" title="Commits a state machine command." alt="" coords="5,23,161,64"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="209,5,348,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,31,193,27,193,32,161,36"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc.html#aeca0663c5237402736e3127369854cb5" title="Converts a hash to a hexadecimal string." alt="" coords="226,55,331,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,50,211,57,210,62,161,56"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="cbdc::parsec::ticket_machine::state_machine" name="cbdc::parsec::ticket_machine::state_machine">
+<area shape="rect" id="Node000001" title="NuRaft state machine implementation for a replicated ticket machine." alt="" coords="739,38,907,79"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="544,5,689,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="702,32,739,39,738,44,701,37"/>
+<area shape="rect" id="Node000003" href="$classcbdc_1_1rpc_1_1blocking__server.html" title=" " alt="" coords="543,55,690,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="705,78,738,72,739,77,706,84"/>
+<area shape="rect" id="Node000004" href="$classcbdc_1_1rpc_1_1server.html" title="Generic RPC server." alt="" coords="222,30,364,86"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="380,60,520,74,544,78,543,84,519,79,379,65"/>
+<area shape="rect" id="Node000005" href="$classcbdc_1_1rpc_1_1blocking__server.html" title="Generic synchronous RPC server." alt="" coords="197,110,389,166"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="404,148,462,147,519,140,542,133,544,138,520,145,462,152,405,153"/>
+<area shape="rect" id="Node000006" href="$classcbdc_1_1rpc_1_1server.html" title="Generic RPC server." alt="" coords="5,110,148,166"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="163,136,196,136,196,141,163,141"/>
+</map>

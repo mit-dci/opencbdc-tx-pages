@@ -1,0 +1,7 @@
+<map id="cbdc::serialize_size" name="cbdc::serialize_size">
+<area shape="rect" id="Node000001" title="Creates a binary representation for sizes that exceed the single&#45;byte presentation." alt="" coords="5,5,138,31"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc.html#aed9c6313b2ae6e3d7f01340ab5a3076b" title="Serialize object into nuraft::buffer using a cbdc::nuraft_serializer." alt="" coords="186,5,312,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,16,170,16,170,21,138,21"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="360,5,499,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="312,16,345,16,345,21,312,21"/>
+</map>

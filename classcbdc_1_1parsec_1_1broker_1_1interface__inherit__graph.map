@@ -1,0 +1,5 @@
+<map id="cbdc::parsec::broker::interface" name="cbdc::parsec::broker::interface">
+<area shape="rect" id="Node000001" title="Interface for a broker." alt="" coords="5,5,142,46"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1parsec_1_1broker_1_1impl.html" title="Implementation of a broker." alt="" coords="5,94,142,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,62,76,94,71,94,71,62"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="cbdc::rlp_value::value" name="cbdc::rlp_value::value">
+<area shape="rect" id="Node000001" title="Return RLP value as address or byte array." alt="" coords="5,31,150,56"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1buffer.html#a06b7affff5f9d9cd9845c7a78d72ec76" title="Returns a raw pointer to the start of the buffer data." alt="" coords="198,5,316,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,31,182,26,183,31,151,36"/>
+<area shape="rect" id="Node000003" href="$classcbdc_1_1buffer.html#a965d671e743ead416c601696fcedbad1" title="Returns the number of bytes contained in the buffer." alt="" coords="199,55,315,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,51,184,55,183,60,150,56"/>
+</map>

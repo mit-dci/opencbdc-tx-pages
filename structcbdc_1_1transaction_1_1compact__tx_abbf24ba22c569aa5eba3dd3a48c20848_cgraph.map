@@ -1,0 +1,5 @@
+<map id="cbdc::transaction::compact_tx::sign" name="cbdc::transaction::compact_tx::sign">
+<area shape="rect" id="Node000001" title="Sign the compact transaction and return the signature." alt="" coords="5,5,131,46"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc.html#aef77ae84c0c1123602cdfad838489b50" title="Generates a public key from the specified private key." alt="" coords="179,13,356,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,23,163,23,163,28,131,28"/>
+</map>

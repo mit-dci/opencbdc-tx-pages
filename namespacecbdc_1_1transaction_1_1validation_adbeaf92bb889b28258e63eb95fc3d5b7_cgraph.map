@@ -1,0 +1,11 @@
+<map id="cbdc::transaction::validation::check_tx_structure" name="cbdc::transaction::validation::check_tx_structure">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,97,140,152"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc_1_1transaction_1_1validation.html#abeb1b2b8bc2fd32358b460bb86b53d34" title=" " alt="" coords="196,5,388,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,94,187,57,204,49,206,54,189,61,119,98"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc_1_1transaction_1_1validation.html#a19a9e7e41435f482b21c5ba94c6c4eef" title=" " alt="" coords="203,71,381,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,112,187,104,188,109,140,117"/>
+<area shape="rect" id="Node000004" href="$namespacecbdc_1_1transaction_1_1validation.html#a7dc53de38884cc9c8cf5a9a79a4e59f0" title=" " alt="" coords="192,136,392,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="140,131,177,137,176,142,140,137"/>
+<area shape="rect" id="Node000005" href="$namespacecbdc_1_1transaction_1_1validation.html#a8cea65acca5e16fecb28d85683d66ae1" title=" " alt="" coords="188,201,396,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="121,150,189,186,206,193,204,198,187,191,118,155"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="socket.cpp" name="socket.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="184,5,268,31"/>
+<area shape="rect" id="Node000002" href="$socket_8hpp.html" title=" " alt="" coords="86,79,171,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,34,158,72,155,68,208,29"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="195,79,257,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="228,31,228,63,223,63,223,31"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="281,79,347,105"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="242,29,289,67,285,71,239,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,153,73,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,107,68,145,64,141,112,103"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="97,153,160,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="131,105,131,137,126,137,126,105"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="184,153,238,178"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="144,103,187,140,184,144,141,107"/>
+</map>

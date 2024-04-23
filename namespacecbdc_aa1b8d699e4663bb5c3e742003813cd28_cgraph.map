@@ -1,0 +1,9 @@
+<map id="cbdc::serialize_rlp_length" name="cbdc::serialize_rlp_length">
+<area shape="rect" id="Node000001" title="Serializes the passed len from the given offset as RLP compatible size representation as documented i..." alt="" coords="5,5,129,46"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc.html#a3199d5595d876f8757089a9187c30508" title="Creates a binary representation for sizes that exceed the single&#45;byte presentation." alt="" coords="177,13,309,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,23,161,23,161,28,129,28"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc.html#aed9c6313b2ae6e3d7f01340ab5a3076b" title="Serialize object into nuraft::buffer using a cbdc::nuraft_serializer." alt="" coords="357,13,483,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="309,23,342,23,342,28,309,28"/>
+<area shape="rect" id="Node000004" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="531,13,671,39"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="484,23,516,23,516,28,484,28"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="cbdc::parsec::agent::runner::mint_initial_accounts" name="cbdc::parsec::agent::runner::mint_initial_accounts">
+<area shape="rect" id="Node000001" title="Mints a set of initial accounts with funds, bypassing the agent." alt="" coords="5,40,138,95"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1buffer.html#a170db2df3d405d2c9696a620c0c8ffcd" title="Creates a new buffer from the provided hex string." alt="" coords="186,5,332,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,48,192,33,194,38,139,53"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc.html#aed9c6313b2ae6e3d7f01340ab5a3076b" title="Serialize object into nuraft::buffer using a cbdc::nuraft_serializer." alt="" coords="196,55,322,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,65,180,65,180,70,138,70"/>
+<area shape="rect" id="Node000005" href="$namespacecbdc_1_1parsec.html#a91e162e86a87fca1033c6ed96439a517" title="Asynchronously inserts the given row into the cluster." alt="" coords="186,104,332,130"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="139,82,194,97,192,102,137,87"/>
+<area shape="rect" id="Node000004" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="380,55,519,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="322,65,365,65,365,70,322,70"/>
+</map>

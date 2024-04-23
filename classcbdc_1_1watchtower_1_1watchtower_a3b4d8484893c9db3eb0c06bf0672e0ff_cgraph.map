@@ -1,0 +1,9 @@
+<map id="cbdc::watchtower::watchtower::add_errors" name="cbdc::watchtower::watchtower::add_errors">
+<area shape="rect" id="Node000001" title="Adds an error from an internal component to the Watchtower&#39;s error cache." alt="" coords="5,71,201,111"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1watchtower_1_1block__cache.html#a94561aeeb9a06f32c09d9e7195323c50" title="Checks to see if the given UHS ID has been spent according to the blocks in the cache." alt="" coords="249,5,408,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,68,240,48,242,54,176,73"/>
+<area shape="rect" id="Node000003" href="$classcbdc_1_1watchtower_1_1block__cache.html#a3879bb092cade4c91eb0ac7c696fa455" title="Checks to see if the given UHS ID is spendable according to the blocks in the cache." alt="" coords="249,71,408,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,88,233,88,233,94,201,94"/>
+<area shape="rect" id="Node000004" href="$classcbdc_1_1watchtower_1_1error__cache.html#a6c3dbfe9c94c0779cc56ae337b32f423" title="Moves an error into the error cache, evicting the oldest error if the cache has reached its maximum s..." alt="" coords="251,136,406,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="176,109,242,128,240,134,175,114"/>
+</map>

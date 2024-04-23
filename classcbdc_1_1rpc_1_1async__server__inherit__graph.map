@@ -1,0 +1,7 @@
+<map id="cbdc::rpc::async_server&lt; Request, Response, InBuffer, OutBuffer &gt;" name="cbdc::rpc::async_server&lt; Request, Response, InBuffer, OutBuffer &gt;">
+<area shape="rect" id="Node000001" title="Generic asynchronous RPC server." alt="" coords="5,109,207,165"/>
+<area shape="rect" id="Node000003" href="$classcbdc_1_1raft_1_1rpc_1_1server.html" title="Generic RPC server for raft nodes for which the replicated state machine handles the request processi..." alt="" coords="36,213,176,253"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="109,180,109,212,103,212,103,180"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1rpc_1_1server.html" title="Generic RPC server." alt="" coords="35,5,177,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,77,109,108,103,108,103,77"/>
+</map>

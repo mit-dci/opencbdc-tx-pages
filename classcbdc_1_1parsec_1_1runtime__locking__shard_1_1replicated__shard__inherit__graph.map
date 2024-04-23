@@ -1,0 +1,5 @@
+<map id="cbdc::parsec::runtime_locking_shard::replicated_shard" name="cbdc::parsec::runtime_locking_shard::replicated_shard">
+<area shape="rect" id="Node000001" title="Implementation of the replicated shard interface." alt="" coords="5,109,215,150"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1parsec_1_1runtime__locking__shard_1_1replicated__shard__interface.html" title="Interface for replicating internal state for prepared and committed tickets managed by a locking shar..." alt="" coords="25,5,195,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,77,113,109,107,109,107,77"/>
+</map>

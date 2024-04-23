@@ -1,0 +1,7 @@
+<map id="cbdc::rpc::event_handler" name="cbdc::rpc::event_handler">
+<area shape="rect" id="Node000001" title="Event handler interface for tracking events on non&#45;blocking file descriptors." alt="" coords="86,5,246,31"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1rpc_1_1epoll__event__handler.html" title="Event handler implementation using Linux epoll." alt="" coords="5,79,151,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,44,101,81,98,77,139,40"/>
+<area shape="rect" id="Node000003" href="$classcbdc_1_1rpc_1_1kqueue__event__handler.html" title="Event handler implementation using BSD kqueue." alt="" coords="175,79,336,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,39,235,77,232,81,189,43"/>
+</map>

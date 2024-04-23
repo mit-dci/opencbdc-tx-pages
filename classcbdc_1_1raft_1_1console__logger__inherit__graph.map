@@ -1,0 +1,5 @@
+<map id="cbdc::raft::console_logger" name="cbdc::raft::console_logger">
+<area shape="rect" id="Node000001" title="nuraft::logger implementation using logging::log." alt="" coords="5,79,131,120"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="20,5,116,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,46,71,79,65,79,65,46"/>
+</map>

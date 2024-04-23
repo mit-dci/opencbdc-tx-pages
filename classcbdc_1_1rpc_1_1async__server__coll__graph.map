@@ -1,0 +1,5 @@
+<map id="cbdc::rpc::async_server&lt; Request, Response, InBuffer, OutBuffer &gt;" name="cbdc::rpc::async_server&lt; Request, Response, InBuffer, OutBuffer &gt;">
+<area shape="rect" id="Node000001" title="Generic asynchronous RPC server." alt="" coords="5,109,207,165"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1rpc_1_1server.html" title="Generic RPC server." alt="" coords="35,5,177,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,77,109,108,103,108,103,77"/>
+</map>

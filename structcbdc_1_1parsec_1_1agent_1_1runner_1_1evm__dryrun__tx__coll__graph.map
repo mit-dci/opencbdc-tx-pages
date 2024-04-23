@@ -1,0 +1,7 @@
+<map id="cbdc::parsec::agent::runner::evm_dryrun_tx" name="cbdc::parsec::agent::runner::evm_dryrun_tx">
+<area shape="rect" id="Node000001" title="Dry&#45;run EVM transaction type." alt="" coords="5,213,159,253"/>
+<area shape="rect" id="Node000002" href="$structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__tx.html" title="EVM transaction type." alt="" coords="16,109,148,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,165,85,212,79,212,79,165"/>
+<area shape="rect" id="Node000003" href="$structcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__sig.html" title="EVM signature type." alt="" coords="16,5,148,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,62,85,109,79,109,79,62"/>
+</map>

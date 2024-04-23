@@ -1,0 +1,5 @@
+<map id="cbdc::parsec::ticket_machine::impl" name="cbdc::parsec::ticket_machine::impl">
+<area shape="rect" id="Node000001" title="Thread&#45;safe ticket machine implementation." alt="" coords="6,94,138,135"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1parsec_1_1ticket__machine_1_1interface.html" title="Ticket machine interface." alt="" coords="5,5,139,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,62,75,94,69,94,69,62"/>
+</map>

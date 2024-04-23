@@ -1,0 +1,5 @@
+<map id="cbdc::raft::rpc::server::register_raft_node" name="cbdc::raft::rpc::server::register_raft_node">
+<area shape="rect" id="Node000001" title="Registers the raft node whose state machine handles RPC requests for this server." alt="" coords="5,5,146,46"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1rpc_1_1async__server.html#acb8c44fa92ef7201d3ad4d539fc36544" title="Register a request handler callback function for processing requests, generating responses,..." alt="" coords="194,5,368,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,23,178,23,178,28,146,28"/>
+</map>

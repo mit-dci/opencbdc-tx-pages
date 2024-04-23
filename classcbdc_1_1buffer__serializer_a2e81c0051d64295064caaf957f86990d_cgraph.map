@@ -1,0 +1,5 @@
+<map id="cbdc::buffer_serializer::end_of_buffer" name="cbdc::buffer_serializer::end_of_buffer">
+<area shape="rect" id="Node000001" title="Indicates whether the cursor is at or beyond the end of the buffer." alt="" coords="5,5,151,46"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1buffer.html#a965d671e743ead416c601696fcedbad1" title="Returns the number of bytes contained in the buffer." alt="" coords="199,13,315,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,23,183,23,183,28,151,28"/>
+</map>

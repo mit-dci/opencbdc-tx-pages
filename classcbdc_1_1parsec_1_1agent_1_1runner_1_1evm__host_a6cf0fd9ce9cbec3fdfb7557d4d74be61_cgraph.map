@@ -1,0 +1,7 @@
+<map id="cbdc::parsec::agent::runner::evm_host::ticket_number_key" name="cbdc::parsec::agent::runner::evm_host::ticket_number_key">
+<area shape="rect" id="Node000001" title="Return the key for the host&#39;s ticket number, which is the hash of the ticket number&#39;s serialized repr..." alt="" coords="5,5,138,61"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc.html#aed9c6313b2ae6e3d7f01340ab5a3076b" title="Serialize object into nuraft::buffer using a cbdc::nuraft_serializer." alt="" coords="186,20,312,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,31,170,31,170,36,138,36"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="360,20,499,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="312,31,345,31,345,36,312,36"/>
+</map>

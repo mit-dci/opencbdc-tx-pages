@@ -1,0 +1,5 @@
+<map id="cbdc::coordinator::controller" name="cbdc::coordinator::controller">
+<area shape="rect" id="Node000001" title="Replicated coordinator node." alt="" coords="5,94,131,135"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1coordinator_1_1interface.html" title="Interface for a coordinator." alt="" coords="5,5,131,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,62,71,94,65,94,65,62"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="cbdc::rlp_value::assign" name="cbdc::rlp_value::assign">
+<area shape="rect" id="Node000001" title="Assigns the given data to the internal buffer of this rlp_value can only be used for rlp_value instan..." alt="" coords="5,81,157,107"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1buffer.html#a0b052c199c282af8b5509ad5a18ef590" title="Removes any existing content in the buffer making its size 0." alt="" coords="213,5,335,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,78,224,34,226,39,117,83"/>
+<area shape="rect" id="Node000003" href="$classcbdc_1_1buffer.html#a06b7affff5f9d9cd9845c7a78d72ec76" title="Returns a raw pointer to the start of the buffer data." alt="" coords="391,81,509,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,92,375,92,375,97,157,97"/>
+<area shape="rect" id="Node000004" href="$classcbdc_1_1rlp__value.html#a77f59cd67042cb2a0379fa13ea81c591" title="Returns a raw pointer to the start of the buffer data for rlp_value of type rlp_buffer." alt="" coords="205,107,343,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="157,101,190,106,189,111,157,107"/>
+<area shape="rect" id="Node000005" href="$classcbdc_1_1buffer.html#a5ed13a2cb51fd228e8a5251f07ed7d7f" title="Extends the size of the buffer by the given length." alt="" coords="208,156,340,182"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="114,105,206,142,220,148,218,153,204,147,112,110"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="343,107,375,102,376,107,344,112"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="cbdc::coordinator::interface" name="cbdc::coordinator::interface">
+<area shape="rect" id="Node000001" title="Interface for a coordinator." alt="" coords="80,5,205,46"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1coordinator_1_1controller.html" title="Replicated coordinator node." alt="" coords="5,94,131,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,60,87,95,83,92,114,56"/>
+<area shape="rect" id="Node000003" href="$classcbdc_1_1coordinator_1_1rpc_1_1client.html" title="RPC client for a coordinator." alt="" coords="155,94,280,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,56,202,92,198,95,167,60"/>
+</map>

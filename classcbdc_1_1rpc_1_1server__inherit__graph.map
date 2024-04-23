@@ -1,0 +1,20 @@
+<map id="cbdc::rpc::server&lt; Request, Response, InBuffer, OutBuffer &gt;" name="cbdc::rpc::server&lt; Request, Response, InBuffer, OutBuffer &gt;">
+<area shape="rect" id="Node000001" title="Generic RPC server." alt="" coords="5,158,148,213"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1rpc_1_1blocking__server.html" title=" " alt="" coords="682,39,828,124"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,166,171,164,453,120,681,88,682,93,454,125,172,169,163,171"/>
+<area shape="rect" id="Node000005" href="$classcbdc_1_1rpc_1_1async__server.html" title="Generic asynchronous RPC server." alt="" coords="327,158,528,213"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="163,183,327,183,327,188,163,188"/>
+<area shape="rect" id="Node000007" href="$classcbdc_1_1rpc_1_1blocking__server.html" title="Generic synchronous RPC server." alt="" coords="331,27,524,83"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="110,144,138,120,170,99,210,83,251,71,330,57,331,62,252,76,211,88,173,104,141,124,114,148"/>
+<area shape="rect" id="Node000008" href="$classcbdc_1_1rpc_1_1server.html" title=" " alt="" coords="351,237,504,323"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="123,220,147,236,173,248,217,262,264,271,351,278,351,284,263,276,216,267,171,253,144,241,120,225"/>
+<area shape="rect" id="Node000009" href="$classcbdc_1_1rpc_1_1server.html" title=" " alt="" coords="357,347,498,403"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="100,225,131,271,151,293,173,312,217,335,265,352,313,362,356,368,356,374,312,367,263,357,215,340,170,316,147,297,127,275,96,228"/>
+<area shape="rect" id="Node000003" href="$classcbdc_1_1locking__shard_1_1state__machine.html" title="Raft state machine for handling locking shard RPC requests." alt="" coords="894,29,1030,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="844,65,893,57,894,62,844,70"/>
+<area shape="rect" id="Node000004" href="$classcbdc_1_1parsec_1_1ticket__machine_1_1state__machine.html" title="NuRaft state machine implementation for a replicated ticket machine." alt="" coords="878,94,1046,135"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="844,93,878,98,877,104,843,98"/>
+<area shape="rect" id="Node000006" href="$classcbdc_1_1raft_1_1rpc_1_1server.html" title="Generic RPC server for raft nodes for which the replicated state machine handles the request processi..." alt="" coords="685,165,825,206"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="544,183,685,183,685,188,544,188"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="539,61,682,73,682,78,539,66"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="distributed_tx.hpp" name="distributed_tx.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="253,5,376,31"/>
+<area shape="rect" id="Node000002" href="$uhs_2twophase_2coordinator_2controller_8hpp.html" title=" " alt="" coords="199,79,297,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="295,44,261,80,257,77,291,40"/>
+<area shape="rect" id="Node000009" href="$distributed__tx_8cpp.html" title=" " alt="" coords="321,79,444,105"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="338,40,373,77,369,80,334,44"/>
+<area shape="rect" id="Node000003" href="$uhs_2twophase_2coordinator_2controller_8cpp.html" title=" " alt="" coords="5,226,104,252"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="222,116,72,228,69,224,218,112"/>
+<area shape="rect" id="Node000004" href="$coordinatord_8cpp.html" title=" " alt="" coords="364,153,481,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="293,108,394,150,392,155,291,113"/>
+<area shape="rect" id="Node000005" href="$uhs_2twophase_2coordinator_2format_8cpp.html" title=" " alt="" coords="128,226,210,252"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="225,117,197,154,181,193,174,227,168,226,176,191,192,151,221,114"/>
+<area shape="rect" id="Node000006" href="$uhs_2twophase_2coordinator_2format_8hpp.html" title=" " alt="" coords="207,153,289,178"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="251,120,251,152,245,152,245,120"/>
+<area shape="rect" id="Node000008" href="$uhs_2twophase_2coordinator_2state__machine_8cpp.html" title=" " alt="" coords="357,226,488,252"/>
+<area shape="poly" id="edge10_Node000002_Node000008" title=" " alt="" coords="275,112,410,224,406,228,272,116"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="202,187,88,228,87,223,200,182"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="225,191,184,228,181,224,222,187"/>
+<area shape="rect" id="Node000007" href="$uhs_2twophase_2sentinel__2pc_2controller_8cpp.html" title=" " alt="" coords="235,226,333,252"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="263,191,280,225,275,227,258,193"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="293,182,394,223,392,228,291,187"/>
+</map>

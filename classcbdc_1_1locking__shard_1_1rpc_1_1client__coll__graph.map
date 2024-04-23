@@ -1,0 +1,5 @@
+<map id="cbdc::locking_shard::rpc::client" name="cbdc::locking_shard::rpc::client">
+<area shape="rect" id="Node000001" title="RPC client for the mutable interface to a locking shard raft cluster." alt="" coords="5,94,141,135"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1locking__shard_1_1interface.html" title="Interface for a locking shard." alt="" coords="5,5,141,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,62,76,94,70,94,70,62"/>
+</map>

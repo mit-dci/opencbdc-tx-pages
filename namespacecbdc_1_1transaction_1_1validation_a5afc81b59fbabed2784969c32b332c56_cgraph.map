@@ -1,0 +1,38 @@
+<map id="cbdc::transaction::validation::check_tx" name="cbdc::transaction::validation::check_tx">
+<area shape="rect" id="Node000001" title="Runs static validation checks on the given transaction." alt="" coords="5,158,140,199"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc_1_1transaction_1_1validation.html#afd1058c34035553ee415c69885f12a8f" title=" " alt="" coords="205,5,340,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,156,133,114,186,71,193,67,195,71,189,75,136,118,95,159"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc_1_1transaction_1_1validation.html#a08a3e15a0c8fb6468ba1bf99c324957e" title=" " alt="" coords="196,85,349,141"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="136,155,180,140,182,145,138,160"/>
+<area shape="rect" id="Node000004" href="$namespacecbdc_1_1transaction_1_1validation.html#aae18f2536ef20662c741646a76d48f43" title=" " alt="" coords="410,93,608,134"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="140,173,242,165,357,151,424,135,425,141,357,156,243,171,140,178"/>
+<area shape="rect" id="Node000005" href="$namespacecbdc_1_1transaction_1_1validation.html#adbeaf92bb889b28258e63eb95fc3d5b7" title=" " alt="" coords="205,216,340,272"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="138,197,191,215,190,220,136,202"/>
+<area shape="rect" id="Node000010" href="$namespacecbdc_1_1transaction_1_1validation.html#aeea57ebf8cc203210d6ac25b5f80ab10" title=" " alt="" coords="188,361,357,402"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="96,198,242,348,239,352,92,201"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="349,111,394,111,394,116,349,116"/>
+<area shape="rect" id="Node000006" href="$namespacecbdc_1_1transaction_1_1validation.html#abeb1b2b8bc2fd32358b460bb86b53d34" title=" " alt="" coords="414,158,605,199"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="339,223,418,201,419,206,341,228"/>
+<area shape="rect" id="Node000007" href="$namespacecbdc_1_1transaction_1_1validation.html#a19a9e7e41435f482b21c5ba94c6c4eef" title=" " alt="" coords="421,224,598,264"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="340,241,405,241,405,247,340,247"/>
+<area shape="rect" id="Node000008" href="$namespacecbdc_1_1transaction_1_1validation.html#a7dc53de38884cc9c8cf5a9a79a4e59f0" title=" " alt="" coords="410,289,609,330"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="341,260,419,282,418,287,339,265"/>
+<area shape="rect" id="Node000009" href="$namespacecbdc_1_1transaction_1_1validation.html#a8cea65acca5e16fecb28d85683d66ae1" title=" " alt="" coords="405,354,613,395"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="307,270,353,305,406,339,421,346,418,350,404,344,350,310,304,274"/>
+<area shape="rect" id="Node000011" href="$namespacecbdc_1_1transaction_1_1validation.html#aa23812d361af8f195272cf9b7ba4fb5b" title=" " alt="" coords="433,419,585,474"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="349,399,419,419,418,424,348,405"/>
+<area shape="rect" id="Node000012" href="$namespacecbdc_1_1transaction_1_1validation.html#a1259a10b7c4d5708040a9c6d332f6589" title=" " alt="" coords="661,339,814,394"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="585,417,646,396,647,401,587,422"/>
+<area shape="rect" id="Node000014" href="$namespacecbdc_1_1transaction_1_1validation.html#ae0bd11e125718e02af61645696f5e8cd" title=" " alt="" coords="661,419,814,474"/>
+<area shape="poly" id="edge14_Node000011_Node000014" title=" " alt="" coords="586,444,646,444,646,449,586,449"/>
+<area shape="rect" id="Node000015" href="$namespacecbdc_1_1transaction_1_1validation.html#adc89367934be44c3a98285ba10d35755" title=" " alt="" coords="661,499,814,554"/>
+<area shape="poly" id="edge15_Node000011_Node000015" title=" " alt="" coords="587,471,647,492,646,497,585,476"/>
+<area shape="rect" id="Node000013" href="$namespacecbdc.html#a683b1822c4294075ddecf27a8774d76e" title="Calculates the SHA256 hash of the specified data." alt="" coords="867,354,982,379"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="814,364,851,364,851,369,814,369"/>
+<area shape="rect" id="Node000016" href="$namespacecbdc_1_1transaction.html#a43a4b189920471ef5363e91bc908a892" title="Calculates the unique hash of a full transaction." alt="" coords="862,506,987,547"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="814,524,846,524,846,529,814,529"/>
+<area shape="rect" id="Node000017" href="$namespacecbdc.html#aed9c6313b2ae6e3d7f01340ab5a3076b" title="Serialize object into nuraft::buffer using a cbdc::nuraft_serializer." alt="" coords="1035,514,1161,539"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="987,524,1020,524,1020,529,987,529"/>
+<area shape="rect" id="Node000018" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="1209,514,1349,539"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="1162,524,1194,524,1194,529,1162,529"/>
+</map>

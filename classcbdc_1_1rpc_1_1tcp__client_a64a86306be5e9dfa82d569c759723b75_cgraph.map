@@ -1,0 +1,7 @@
+<map id="cbdc::rpc::tcp_client::init" name="cbdc::rpc::tcp_client::init">
+<area shape="rect" id="Node000001" title="Initializes the client." alt="" coords="5,39,141,79"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1network_1_1connection__manager.html#a3abf1dafbb2003610ba08a0d95f012bf" title="Establishes connections to the provided list of endpoints." alt="" coords="189,5,365,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,45,172,40,173,45,142,51"/>
+<area shape="rect" id="Node000003" href="$classcbdc_1_1network_1_1connection__manager.html#a0b17f14e6d100608e2ae14173b412cf5" title="Starts a thread to handle messages from established connections using the specified handler function." alt="" coords="192,71,362,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,67,177,73,176,78,141,72"/>
+</map>

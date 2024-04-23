@@ -1,0 +1,7 @@
+<map id="cbdc::locking_shard::status_interface" name="cbdc::locking_shard::status_interface">
+<area shape="rect" id="Node000001" title="Interface for querying the read&#45;only state of a locking shard." alt="" coords="85,5,221,46"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1locking__shard_1_1locking__shard.html" title="In&#45;memory implementation of interface and status_interface." alt="" coords="5,94,141,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,59,93,95,89,92,123,56"/>
+<area shape="rect" id="Node000003" href="$classcbdc_1_1locking__shard_1_1rpc_1_1status__client.html" title="Client for interacting with the read&#45;only port on 2PC shards." alt="" coords="165,94,301,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,56,217,92,213,95,179,59"/>
+</map>

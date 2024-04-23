@@ -1,0 +1,15 @@
+<map id="cbdc::config::read_coordinator_options" name="cbdc::config::read_coordinator_options">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,147,145"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc_1_1config.html#a70bb8028d224475bf2d123cee8f1511d" title=" " alt="" coords="195,5,379,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,101,194,57,209,50,211,55,196,61,113,106"/>
+<area shape="rect" id="Node000004" href="$namespacecbdc_1_1config.html#accf219035947c057f15558131b175eb3" title=" " alt="" coords="195,71,379,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="147,111,179,105,180,111,148,116"/>
+<area shape="rect" id="Node000005" href="$namespacecbdc_1_1config.html#a83da6e1b6a8feabdcda3ecd4f8975b5f" title=" " alt="" coords="195,136,379,177"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="148,132,180,137,179,143,147,138"/>
+<area shape="rect" id="Node000006" href="$namespacecbdc_1_1config.html#a569abd1a831bef46a57d5b997ab03f8d" title=" " alt="" coords="195,201,379,242"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="113,143,196,186,212,193,210,198,194,191,111,147"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc_1_1config.html#a23a5998dd5dd1655deb7df78aed58e98" title=" " alt="" coords="427,136,611,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="353,44,380,57,435,90,482,124,479,128,432,94,378,61,351,49"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="380,154,411,154,411,159,380,159"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="361,198,429,179,430,184,362,203"/>
+</map>

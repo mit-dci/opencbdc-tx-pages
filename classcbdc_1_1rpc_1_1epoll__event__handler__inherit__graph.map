@@ -1,0 +1,5 @@
+<map id="cbdc::rpc::epoll_event_handler" name="cbdc::rpc::epoll_event_handler">
+<area shape="rect" id="Node000001" title="Event handler implementation using Linux epoll." alt="" coords="13,79,158,120"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1rpc_1_1event__handler.html" title="Event handler interface for tracking events on non&#45;blocking file descriptors." alt="" coords="5,5,166,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,46,88,79,83,79,83,46"/>
+</map>

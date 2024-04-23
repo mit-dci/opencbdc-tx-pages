@@ -1,0 +1,48 @@
+<map id="random_source.hpp" name="random_source.hpp">
+<area shape="rect" id="Node000001" title="Pseudorandom number generator (PRNG) for generating random data from a given entropy source." alt="" coords="333,5,467,31"/>
+<area shape="rect" id="Node000002" href="$uhs_2twophase_2coordinator_2controller_8hpp.html" title=" " alt="" coords="149,153,248,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="333,39,291,56,252,81,236,98,223,118,205,153,201,151,218,115,232,95,249,77,289,51,331,34"/>
+<area shape="rect" id="Node000009" href="$distributed__tx_8hpp.html" title=" " alt="" coords="263,79,385,105"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="378,44,338,81,335,77,374,40"/>
+<area shape="rect" id="Node000011" href="$random__source_8cpp.html" title=" " alt="" coords="409,79,543,105"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="426,40,465,77,461,81,422,44"/>
+<area shape="rect" id="Node000012" href="$wallet_8hpp.html" title=" " alt="" coords="574,79,653,105"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="451,34,578,76,576,81,449,39"/>
+<area shape="rect" id="Node000003" href="$uhs_2twophase_2coordinator_2controller_8cpp.html" title=" " alt="" coords="389,300,488,326"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="263,177,320,195,375,224,395,242,412,262,435,298,430,301,407,265,391,246,372,229,318,200,262,182"/>
+<area shape="rect" id="Node000004" href="$coordinatord_8cpp.html" title=" " alt="" coords="138,226,254,252"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="200,194,199,226,194,226,195,194"/>
+<area shape="rect" id="Node000005" href="$uhs_2twophase_2coordinator_2format_8cpp.html" title=" " alt="" coords="5,300,88,326"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="169,189,119,228,83,267,57,301,53,298,79,264,115,224,165,185"/>
+<area shape="rect" id="Node000006" href="$uhs_2twophase_2coordinator_2format_8hpp.html" title=" " alt="" coords="279,226,361,252"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="234,184,300,223,298,228,231,189"/>
+<area shape="rect" id="Node000008" href="$uhs_2twophase_2coordinator_2state__machine_8cpp.html" title=" " alt="" coords="112,300,242,326"/>
+<area shape="poly" id="edge10_Node000002_Node000008" title=" " alt="" coords="164,189,143,206,128,227,125,247,133,266,147,283,163,298,159,302,143,287,128,269,120,247,123,225,139,202,160,185"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="354,258,420,297,417,302,351,263"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="264,258,89,303,87,298,263,253"/>
+<area shape="rect" id="Node000007" href="$uhs_2twophase_2sentinel__2pc_2controller_8cpp.html" title=" " alt="" coords="267,300,365,326"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="321,268,319,300,314,299,316,267"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="283,262,203,302,200,297,281,257"/>
+<area shape="poly" id="edge12_Node000009_Node000002" title=" " alt="" coords="291,115,221,154,219,150,288,110"/>
+<area shape="rect" id="Node000010" href="$distributed__tx_8cpp.html" title=" " alt="" coords="272,153,394,178"/>
+<area shape="poly" id="edge13_Node000009_Node000010" title=" " alt="" coords="330,119,334,152,329,153,325,120"/>
+<area shape="rect" id="Node000013" href="$uhs_2client_2client_8cpp.html" title=" " alt="" coords="444,226,521,252"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="594,118,495,228,491,224,591,114"/>
+<area shape="rect" id="Node000014" href="$uhs_2client_2client_8hpp.html" title=" " alt="" coords="575,153,651,178"/>
+<area shape="poly" id="edge17_Node000012_Node000014" title=" " alt="" coords="616,120,616,152,611,152,611,120"/>
+<area shape="rect" id="Node000020" href="$wallet_8cpp.html" title=" " alt="" coords="675,153,754,178"/>
+<area shape="poly" id="edge26_Node000012_Node000020" title=" " alt="" coords="644,112,699,150,696,154,641,116"/>
+<area shape="poly" id="edge22_Node000014_Node000013" title=" " alt="" coords="579,188,506,228,504,223,577,184"/>
+<area shape="rect" id="Node000015" href="$atomizer__client_8hpp.html" title=" " alt="" coords="759,226,891,252"/>
+<area shape="poly" id="edge18_Node000014_Node000015" title=" " alt="" coords="664,181,790,223,788,228,662,186"/>
+<area shape="rect" id="Node000017" href="$client-cli_8cpp.html" title=" " alt="" coords="675,300,768,326"/>
+<area shape="poly" id="edge21_Node000014_Node000017" title=" " alt="" coords="652,184,677,202,698,225,709,244,716,264,723,299,717,300,711,265,704,246,694,228,673,206,649,189"/>
+<area shape="rect" id="Node000018" href="$twophase__client_8hpp.html" title=" " alt="" coords="545,226,684,252"/>
+<area shape="poly" id="edge23_Node000014_Node000018" title=" " alt="" coords="616,194,617,226,612,226,611,194"/>
+<area shape="rect" id="Node000016" href="$atomizer__client_8cpp.html" title=" " alt="" coords="792,300,925,326"/>
+<area shape="poly" id="edge19_Node000015_Node000016" title=" " alt="" coords="840,265,855,298,850,301,835,267"/>
+<area shape="poly" id="edge20_Node000015_Node000017" title=" " alt="" coords="797,263,740,302,737,297,794,259"/>
+<area shape="poly" id="edge24_Node000018_Node000017" title=" " alt="" coords="647,259,704,297,702,302,644,263"/>
+<area shape="rect" id="Node000019" href="$twophase__client_8cpp.html" title=" " alt="" coords="512,300,651,326"/>
+<area shape="poly" id="edge25_Node000018_Node000019" title=" " alt="" coords="605,267,589,301,584,298,600,265"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="cbdc::parsec::agent::runner::address_from_json" name="cbdc::parsec::agent::runner::address_from_json">
+<area shape="rect" id="Node000001" title="Converts a given Json::Value to an evmc::address." alt="" coords="5,5,185,46"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1buffer.html#a170db2df3d405d2c9696a620c0c8ffcd" title="Creates a new buffer from the provided hex string." alt="" coords="233,13,379,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,23,217,23,217,28,185,28"/>
+</map>

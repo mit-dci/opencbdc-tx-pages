@@ -1,0 +1,7 @@
+<map id="cbdc::parsec::read_cluster_endpoints" name="cbdc::parsec::read_cluster_endpoints">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,136,46"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc_1_1parsec.html#aa82c7ba8447e76ef042dd0b932d9ce4c" title=" " alt="" coords="184,5,309,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,23,168,23,168,28,136,28"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc_1_1config.html#accaa4cb73d417461fc01989e12a4adda" title=" " alt="" coords="357,5,484,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="310,23,342,23,342,28,310,28"/>
+</map>

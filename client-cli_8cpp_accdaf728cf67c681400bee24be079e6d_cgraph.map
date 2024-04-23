@@ -1,0 +1,11 @@
+<map id="mint_command" name="mint_command">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,116,60"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc.html#aeca0663c5237402736e3127369854cb5" title="Converts a hash to a hexadecimal string." alt="" coords="174,5,279,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,35,158,28,159,33,117,40"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc_1_1transaction.html#a43a4b189920471ef5363e91bc908a892" title="Calculates the unique hash of a full transaction." alt="" coords="164,55,289,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,54,148,60,148,65,116,59"/>
+<area shape="rect" id="Node000004" href="$namespacecbdc.html#aed9c6313b2ae6e3d7f01340ab5a3076b" title="Serialize object into nuraft::buffer using a cbdc::nuraft_serializer." alt="" coords="337,63,463,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="289,73,322,73,322,78,289,78"/>
+<area shape="rect" id="Node000005" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="511,63,651,88"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="464,73,496,73,496,78,464,78"/>
+</map>

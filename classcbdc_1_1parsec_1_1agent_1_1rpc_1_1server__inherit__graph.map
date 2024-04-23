@@ -1,0 +1,5 @@
+<map id="cbdc::parsec::agent::rpc::server" name="cbdc::parsec::agent::rpc::server">
+<area shape="rect" id="Node000001" title="RPC server for an agent running a Lua exector." alt="" coords="11,94,144,135"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1parsec_1_1agent_1_1rpc_1_1server__interface.html" title="Server interface for an agent." alt="" coords="5,5,150,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,62,80,94,75,94,75,62"/>
+</map>

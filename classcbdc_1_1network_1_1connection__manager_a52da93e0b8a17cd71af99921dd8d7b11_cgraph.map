@@ -1,0 +1,11 @@
+<map id="cbdc::network::connection_manager::broadcast" name="cbdc::network::connection_manager::broadcast">
+<area shape="rect" id="Node000001" title="Serialize the data and broadcast it to all peers." alt="" coords="5,35,176,75"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1network_1_1connection__manager.html#ae58313e9fc728ca452f96dd661d84c8f" title="Sends the provided data to all added peers." alt="" coords="225,5,395,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,41,209,36,210,42,177,46"/>
+<area shape="rect" id="Node000004" href="$namespacecbdc.html#ae3bea62975afe6c33744795e6456f9b7" title="Serialize object into std::shared_ptr&lt;cbdc::buffer&gt; using a cbdc::buffer_serializer." alt="" coords="224,70,396,96"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="177,63,209,67,208,73,176,69"/>
+<area shape="rect" id="Node000003" href="$classcbdc_1_1network_1_1peer.html#aafc3206ef9e0a7aa9cc85dc3b6d3948c" title="Sends buffered data." alt="" coords="448,5,580,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="395,23,432,23,432,28,395,28"/>
+<area shape="rect" id="Node000005" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="444,70,583,96"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="396,80,428,80,428,86,396,86"/>
+</map>

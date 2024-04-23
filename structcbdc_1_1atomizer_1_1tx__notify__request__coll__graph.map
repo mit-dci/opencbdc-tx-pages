@@ -1,0 +1,5 @@
+<map id="cbdc::atomizer::tx_notify_request" name="cbdc::atomizer::tx_notify_request">
+<area shape="rect" id="Node000001" title="Transaction notification message." alt="" coords="8,109,128,150"/>
+<area shape="rect" id="Node000002" href="$structcbdc_1_1transaction_1_1compact__tx.html" title="A condensed, hash&#45;only transaction representation." alt="" coords="5,5,131,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,62,71,109,65,109,65,62"/>
+</map>

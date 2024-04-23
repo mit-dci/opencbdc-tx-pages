@@ -1,0 +1,13 @@
+<map id="cbdc::client::export_send_inputs" name="cbdc::client::export_send_inputs">
+<area shape="rect" id="Node000001" title="Extracts the transaction data that recipients need from senders to confirm pending transfers." alt="" coords="5,58,133,99"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1transaction_1_1wallet.html#a7e3e385aa81e513f3010869375cb8942" title="Extracts the transaction data that recipients need from senders to confirm pending transfers." alt="" coords="181,50,312,106"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,76,165,76,165,81,133,81"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc_1_1transaction_1_1validation.html#a1f44c99a0ee81639bae8c5e0c783fd95" title=" " alt="" coords="360,14,512,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="312,63,344,57,345,62,313,68"/>
+<area shape="rect" id="Node000006" href="$namespacecbdc_1_1transaction.html#a565b4f45e6f928ae432420f675fd3860" title="Converts the output at the specified index to an input." alt="" coords="374,94,499,135"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="313,88,359,97,358,102,312,93"/>
+<area shape="rect" id="Node000004" href="$namespacecbdc.html#a683b1822c4294075ddecf27a8774d76e" title="Calculates the SHA256 hash of the specified data." alt="" coords="560,5,676,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="513,29,544,25,545,30,513,35"/>
+<area shape="rect" id="Node000005" href="$namespacecbdc.html#a533bc462c81fe3193b0d4adb6b686064" title="Converts an std::array into an std::vector of the same size via copy." alt="" coords="563,55,673,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="513,50,548,55,547,60,513,55"/>
+</map>

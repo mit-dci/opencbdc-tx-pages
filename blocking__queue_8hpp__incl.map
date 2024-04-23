@@ -1,0 +1,11 @@
+<map id="blocking_queue.hpp" name="blocking_queue.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="171,5,306,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,131,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,34,112,75,110,70,209,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="155,79,232,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,33,211,67,207,64,229,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="256,79,312,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="248,30,271,64,266,67,244,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="336,79,392,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="261,29,331,69,328,73,259,34"/>
+</map>

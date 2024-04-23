@@ -1,0 +1,9 @@
+<map id="cbdc::parsec::agent::runner::tx_log_to_json" name="cbdc::parsec::agent::runner::tx_log_to_json">
+<area shape="rect" id="Node000001" title="Encodes the given transaction log into a eth&#45;RPC compatible representation in JSON &#45; as Json::Value." alt="" coords="5,71,158,111"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc_1_1parsec_1_1agent_1_1runner.html#a60c9502b9147e58735537c4161b10951" title=" " alt="" coords="220,5,353,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,68,205,49,206,54,148,73"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc_1_1parsec_1_1agent_1_1runner.html#a341add1172a55034e1aa486a1c728e7f" title=" " alt="" coords="206,71,367,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,88,190,88,190,94,158,94"/>
+<area shape="rect" id="Node000004" href="$namespacecbdc.html#aeca0663c5237402736e3127369854cb5" title="Converts a hash to a hexadecimal string." alt="" coords="234,136,339,161"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="157,109,224,128,222,133,156,114"/>
+</map>

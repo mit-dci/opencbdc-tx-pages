@@ -1,0 +1,28 @@
+<map id="print_tx_result" name="print_tx_result">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,208,108,234"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1client.html#ab78fb6f2b72e00d461c07618fedea288" title="Extracts the transaction data that recipients need from senders to confirm pending transfers." alt="" coords="158,57,286,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,206,103,162,154,113,167,104,170,108,157,118,107,166,70,209"/>
+<area shape="rect" id="Node000008" href="$namespacecbdc.html#aed9c6313b2ae6e3d7f01340ab5a3076b" title="Serialize object into nuraft::buffer using a cbdc::nuraft_serializer." alt="" coords="339,163,465,188"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="72,205,108,179,155,157,201,148,248,147,334,156,333,162,248,152,201,154,156,162,110,184,75,210"/>
+<area shape="rect" id="Node000010" href="$namespacecbdc_1_1transaction_1_1validation.html#a52fdff156ea9b66122ad1e02b03c84f5" title=" " alt="" coords="156,171,288,212"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="107,209,140,203,141,209,108,214"/>
+<area shape="rect" id="Node000011" href="$namespacecbdc.html#aeca0663c5237402736e3127369854cb5" title="Converts a hash to a hexadecimal string." alt="" coords="169,236,275,262"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="108,227,154,235,153,240,108,232"/>
+<area shape="rect" id="Node000012" href="$namespacecbdc_1_1sentinel.html#a49451c48c108396eebfdb96a0873541e" title="Return a human&#45;readable string describing a tx_status." alt="" coords="163,286,281,327"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="83,232,157,272,165,276,163,281,154,277,81,237"/>
+<area shape="rect" id="Node000013" href="$namespacecbdc_1_1transaction.html#a43a4b189920471ef5363e91bc908a892" title="Calculates the unique hash of a full transaction." alt="" coords="159,351,285,392"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="69,233,104,282,129,310,157,336,163,341,160,345,154,340,125,314,100,285,64,236"/>
+<area shape="rect" id="Node000003" href="$classcbdc_1_1transaction_1_1wallet.html#a7e3e385aa81e513f3010869375cb8942" title="Extracts the transaction data that recipients need from senders to confirm pending transfers." alt="" coords="336,49,467,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="286,74,321,74,321,80,286,80"/>
+<area shape="rect" id="Node000004" href="$namespacecbdc_1_1transaction_1_1validation.html#a1f44c99a0ee81639bae8c5e0c783fd95" title=" " alt="" coords="515,14,668,70"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="467,62,500,56,501,61,468,67"/>
+<area shape="rect" id="Node000007" href="$namespacecbdc_1_1transaction.html#a565b4f45e6f928ae432420f675fd3860" title="Converts the output at the specified index to an input." alt="" coords="529,94,654,135"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="468,87,514,96,513,102,467,92"/>
+<area shape="rect" id="Node000005" href="$namespacecbdc.html#a683b1822c4294075ddecf27a8774d76e" title="Calculates the SHA256 hash of the specified data." alt="" coords="716,5,831,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="668,29,700,25,700,30,669,35"/>
+<area shape="rect" id="Node000006" href="$namespacecbdc.html#a533bc462c81fe3193b0d4adb6b686064" title="Converts an std::array into an std::vector of the same size via copy." alt="" coords="719,55,828,80"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="669,50,704,55,703,60,668,55"/>
+<area shape="rect" id="Node000009" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="522,163,661,188"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="465,173,507,173,507,178,465,178"/>
+<area shape="poly" id="edge13_Node000013_Node000008" title=" " alt="" coords="269,348,286,336,318,304,345,267,385,201,389,204,350,270,322,307,290,340,272,353"/>
+</map>

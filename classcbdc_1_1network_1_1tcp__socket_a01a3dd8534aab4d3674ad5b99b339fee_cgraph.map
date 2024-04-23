@@ -1,0 +1,9 @@
+<map id="cbdc::network::tcp_socket::send" name="cbdc::network::tcp_socket::send">
+<area shape="rect" id="Node000001" title="Serialize the data and transmit it in a packet to the remote host." alt="" coords="5,27,131,68"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc.html#aed9c6313b2ae6e3d7f01340ab5a3076b" title="Serialize object into nuraft::buffer using a cbdc::nuraft_serializer." alt="" coords="179,5,305,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,34,163,29,164,34,132,40"/>
+<area shape="rect" id="Node000004" href="$classcbdc_1_1network_1_1tcp__socket.html#a676ad8f9a2da974e4628c021bf8224a1" title="Sends the given packet to the remote host." alt="" coords="179,55,305,96"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="132,55,164,60,164,66,131,60"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="353,5,492,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="305,16,338,16,338,21,305,21"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="cbdc::parsec::agent::runner::from_hex" name="cbdc::parsec::agent::runner::from_hex">
+<area shape="rect" id="Node000001" title="Parses hexadecimal representation in string format to T." alt="" coords="5,5,138,46"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1buffer.html#a8a650ee284df1d1b34d7bbedab7214b7" title="Creates a new buffer from the provided hex string optionally prefixed with a prefix sequence." alt="" coords="186,5,305,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,23,170,23,170,28,138,28"/>
+</map>

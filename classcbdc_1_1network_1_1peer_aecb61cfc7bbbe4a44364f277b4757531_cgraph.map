@@ -1,0 +1,5 @@
+<map id="cbdc::network::peer::~peer" name="cbdc::network::peer::~peer">
+<area shape="rect" id="Node000001" title="Destructor. Calls shutdown()." alt="" coords="5,5,138,46"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1network_1_1peer.html#ad1121cc2946655fec2e53cb4704cc3cc" title="Clears any packets in the pending send queue." alt="" coords="186,5,318,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,23,170,23,170,28,138,28"/>
+</map>

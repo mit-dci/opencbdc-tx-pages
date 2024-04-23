@@ -1,0 +1,12 @@
+<map id="cbdc::atomizer_client::~atomizer_client" name="cbdc::atomizer_client::~atomizer_client">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,95,148,135"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1network_1_1connection__manager.html#a7be9b6b8c582cb5f3fdea1a9a34210a9" title="Shuts down the network listener and all existing peer connections." alt="" coords="196,95,366,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,112,180,112,180,118,148,118"/>
+<area shape="rect" id="Node000003" href="$classcbdc_1_1network_1_1tcp__listener.html#a9efda29d6a5995e2987e915aba3112e1" title="Stops the listener and unblocks any blocking calls associated with this listener." alt="" coords="425,29,550,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="346,92,408,72,410,77,348,97"/>
+<area shape="rect" id="Node000004" href="$classcbdc_1_1network_1_1peer.html#ad1121cc2946655fec2e53cb4704cc3cc" title="Clears any packets in the pending send queue." alt="" coords="421,95,553,135"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="366,112,406,112,406,118,366,118"/>
+<area shape="rect" id="Node000005" href="$classcbdc_1_1network_1_1socket__selector.html#abdfae01b7d5bb06cd0431f6780f33d8b" title="Unblocks a blocked wait() call." alt="" coords="414,160,560,201"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="348,133,407,152,405,157,346,138"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="448,29,446,19,453,10,466,5,487,3,510,5,523,11,521,16,508,10,487,8,468,10,456,15,451,20,453,28"/>
+</map>

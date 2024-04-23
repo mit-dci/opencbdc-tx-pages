@@ -1,0 +1,42 @@
+<map id="async_interface.hpp" name="async_interface.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="673,5,809,31"/>
+<area shape="rect" id="Node000002" href="$uhs_2sentinel_2client_8hpp.html" title=" " alt="" coords="601,79,678,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="713,43,658,81,655,76,710,38"/>
+<area shape="rect" id="Node000011" href="$uhs_2atomizer_2sentinel_2controller_8hpp.html" title=" " alt="" coords="630,153,729,178"/>
+<area shape="poly" id="edge18_Node000001_Node000011" title=" " alt="" coords="732,46,687,153,682,151,727,44"/>
+<area shape="rect" id="Node000014" href="$uhs_2twophase_2sentinel__2pc_2controller_8hpp.html" title=" " alt="" coords="753,153,851,178"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="754,44,800,151,795,153,749,46"/>
+<area shape="rect" id="Node000017" href="$uhs_2twophase_2sentinel__2pc_2server_8hpp.html" title=" " alt="" coords="804,79,886,105"/>
+<area shape="poly" id="edge20_Node000001_Node000017" title=" " alt="" coords="772,38,829,76,826,81,769,42"/>
+<area shape="rect" id="Node000003" href="$uhs_2sentinel_2client_8cpp.html" title=" " alt="" coords="529,153,606,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="619,117,582,154,578,150,615,114"/>
+<area shape="rect" id="Node000004" href="$uhs_2client_2client_8hpp.html" title=" " alt="" coords="277,153,354,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="587,107,354,158,353,153,586,102"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="656,117,675,151,670,153,651,120"/>
+<area shape="poly" id="edge15_Node000002_Node000014" title=" " alt="" coords="682,109,776,150,773,155,680,114"/>
+<area shape="rect" id="Node000005" href="$atomizer__client_8hpp.html" title=" " alt="" coords="39,226,171,252"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="266,186,142,228,140,223,264,181"/>
+<area shape="rect" id="Node000007" href="$client-cli_8cpp.html" title=" " alt="" coords="162,300,256,326"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="280,189,256,206,236,228,219,266,213,300,207,299,214,264,232,225,253,202,276,185"/>
+<area shape="rect" id="Node000008" href="$uhs_2client_2client_8cpp.html" title=" " alt="" coords="409,226,486,252"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="352,184,426,223,424,228,350,188"/>
+<area shape="rect" id="Node000009" href="$twophase__client_8hpp.html" title=" " alt="" coords="246,226,385,252"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="318,194,318,226,313,226,313,194"/>
+<area shape="rect" id="Node000006" href="$atomizer__client_8cpp.html" title=" " alt="" coords="5,300,138,326"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="95,267,80,301,75,298,90,265"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="136,259,193,297,190,302,133,263"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="286,263,228,302,226,297,283,259"/>
+<area shape="rect" id="Node000010" href="$twophase__client_8cpp.html" title=" " alt="" coords="279,300,419,326"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="330,265,346,298,341,301,325,267"/>
+<area shape="rect" id="Node000012" href="$uhs_2atomizer_2sentinel_2controller_8cpp.html" title=" " alt="" coords="510,226,609,252"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="648,189,581,228,579,223,645,184"/>
+<area shape="rect" id="Node000013" href="$sentineld_8cpp.html" title=" " alt="" coords="632,226,730,252"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="683,194,683,226,678,226,677,194"/>
+<area shape="rect" id="Node000015" href="$uhs_2twophase_2sentinel__2pc_2controller_8cpp.html" title=" " alt="" coords="753,226,851,252"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="805,194,805,226,800,226,800,194"/>
+<area shape="rect" id="Node000016" href="$sentineld__2pc_8cpp.html" title=" " alt="" coords="876,226,1001,252"/>
+<area shape="poly" id="edge17_Node000014_Node000016" title=" " alt="" coords="840,183,916,223,914,228,837,188"/>
+<area shape="poly" id="edge21_Node000017_Node000014" title=" " alt="" coords="832,119,812,154,807,151,828,116"/>
+<area shape="rect" id="Node000018" href="$uhs_2twophase_2sentinel__2pc_2server_8cpp.html" title=" " alt="" coords="875,153,956,178"/>
+<area shape="poly" id="edge22_Node000017_Node000018" title=" " alt="" coords="869,114,905,150,902,154,865,117"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="cbdc::transaction::compact_tx::compact_tx" name="cbdc::transaction::compact_tx::compact_tx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,167,79"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc_1_1transaction.html#a43a4b189920471ef5363e91bc908a892" title="Calculates the unique hash of a full transaction." alt="" coords="220,5,345,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,43,204,36,204,42,168,48"/>
+<area shape="rect" id="Node000005" href="$namespacecbdc_1_1transaction.html#a05f9ed2f69c427eaf1e5a8e7bbffa012" title=" " alt="" coords="215,71,350,111"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="168,70,200,75,199,80,167,75"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc.html#aed9c6313b2ae6e3d7f01340ab5a3076b" title="Serialize object into nuraft::buffer using a cbdc::nuraft_serializer." alt="" coords="398,46,524,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="346,35,383,42,382,47,345,40"/>
+<area shape="rect" id="Node000004" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="572,46,712,72"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="525,56,557,56,557,62,525,62"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="350,76,382,70,383,76,351,82"/>
+</map>

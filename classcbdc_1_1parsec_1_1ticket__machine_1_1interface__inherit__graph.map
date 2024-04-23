@@ -1,0 +1,7 @@
+<map id="cbdc::parsec::ticket_machine::interface" name="cbdc::parsec::ticket_machine::interface">
+<area shape="rect" id="Node000001" title="Ticket machine interface." alt="" coords="85,5,218,46"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1parsec_1_1ticket__machine_1_1impl.html" title="Thread&#45;safe ticket machine implementation." alt="" coords="5,94,138,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,59,92,95,88,92,121,56"/>
+<area shape="rect" id="Node000003" href="$classcbdc_1_1parsec_1_1ticket__machine_1_1rpc_1_1client.html" title="RPC client for a remote ticket machine." alt="" coords="162,94,301,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,56,215,92,211,95,178,59"/>
+</map>

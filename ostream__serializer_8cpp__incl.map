@@ -1,0 +1,19 @@
+<map id="ostream_serializer.cpp" name="ostream_serializer.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="217,5,367,31"/>
+<area shape="rect" id="Node000002" href="$ostream__serializer_8hpp.html" title=" " alt="" coords="88,79,238,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,34,200,73,197,69,269,29"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="262,79,322,105"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="295,31,295,63,290,63,290,31"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="346,79,404,105"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="308,30,351,67,348,71,304,34"/>
+<area shape="rect" id="Node000003" href="$stream__serializer_8hpp.html" title=" " alt="" coords="27,153,171,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="154,107,122,143,118,139,150,103"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="194,153,262,178"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="176,103,209,139,205,143,172,107"/>
+<area shape="rect" id="Node000004" href="$serializer_8hpp.html" title=" " alt="" coords="5,226,102,252"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="94,180,71,215,67,212,89,177"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="126,226,165,252"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="109,177,132,212,127,215,104,180"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="21,300,86,326"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="56,252,56,284,51,284,51,252"/>
+</map>

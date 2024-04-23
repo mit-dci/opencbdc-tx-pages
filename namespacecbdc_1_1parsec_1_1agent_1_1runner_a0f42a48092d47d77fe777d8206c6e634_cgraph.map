@@ -1,0 +1,42 @@
+<map id="cbdc::parsec::agent::runner::tx_to_json" name="cbdc::parsec::agent::runner::tx_to_json">
+<area shape="rect" id="Node000001" title="Encodes the given transaction into a eth&#45;RPC compatible representation in JSON &#45; as Json::Value." alt="" coords="5,169,138,210"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc_1_1parsec_1_1agent_1_1runner.html#ad0ef688f1c0fdf272fcc807d2b15af66" title="Encodes the given access list into a eth&#45;RPC compatible representation in JSON &#45; as Json::Value." alt="" coords="200,5,336,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,166,131,124,184,78,199,67,202,72,187,82,135,127,93,170"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc_1_1parsec_1_1agent_1_1runner.html#a60c9502b9147e58735537c4161b10951" title=" " alt="" coords="436,14,568,55"/>
+<area shape="poly" id="edge17_Node000001_Node000003" title=" " alt="" coords="102,166,141,143,185,121,289,88,420,52,421,57,290,93,187,126,143,148,105,171"/>
+<area shape="rect" id="Node000004" href="$namespacecbdc_1_1parsec_1_1agent_1_1runner.html#a8119bbd86593fe020226d114e922c790" title="Checks the signature of an EVM transaction." alt="" coords="186,136,350,176"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="137,175,170,170,171,175,138,181"/>
+<area shape="rect" id="Node000016" href="$namespacecbdc_1_1parsec_1_1agent_1_1runner.html#a341add1172a55034e1aa486a1c728e7f" title=" " alt="" coords="187,201,349,242"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="138,197,172,203,171,208,137,203"/>
+<area shape="rect" id="Node000017" href="$namespacecbdc.html#aeca0663c5237402736e3127369854cb5" title="Converts a hash to a hexadecimal string." alt="" coords="215,266,321,291"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="107,208,187,251,204,258,202,263,185,256,104,212"/>
+<area shape="rect" id="Node000018" href="$namespacecbdc_1_1parsec_1_1agent_1_1runner.html#afb3648cf038f2cf0eb00b108bd23996c" title="Calculate ethereum&#45;compatible txid." alt="" coords="436,306,568,347"/>
+<area shape="poly" id="edge20_Node000001_Node000018" title=" " alt="" coords="88,208,128,257,155,282,187,301,245,321,306,332,366,335,420,333,420,339,366,340,305,337,243,326,185,306,152,286,124,261,84,211"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="336,31,420,31,420,37,336,36"/>
+<area shape="rect" id="Node000005" href="$namespacecbdc_1_1parsec_1_1agent_1_1runner.html#a9205a0cb3d4763817e8b79f58c2d427e" title="Calculates an eth address from a public key." alt="" coords="436,176,568,216"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="350,167,421,179,420,185,350,172"/>
+<area shape="rect" id="Node000007" href="$namespacecbdc_1_1parsec_1_1agent_1_1runner.html#ac79279522a3f85e0295ea6865df7e039" title=" " alt="" coords="398,81,605,151"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="350,139,382,134,383,139,350,144"/>
+<area shape="rect" id="Node000009" href="$namespacecbdc_1_1parsec_1_1agent_1_1runner.html#acf74b16e3ed9fe875519274601be7e49" title="Calculates the hash for creating / validating the signature." alt="" coords="436,241,568,282"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="327,174,351,187,375,207,399,226,422,236,420,241,397,230,372,211,349,191,325,179"/>
+<area shape="rect" id="Node000006" href="$namespacecbdc.html#ad4fab703f5eb66331e79abda8cffba00" title="Calculates the Keccak256 hash of the specified data." alt="" coords="655,248,784,274"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="569,213,660,241,659,246,567,218"/>
+<area shape="rect" id="Node000008" href="$namespacecbdc_1_1parsec_1_1agent_1_1runner.html#af38239c9e27f576b73537b179ae449e4" title="Converts an uint256be to a uint64_t, ignoring higher order bits." alt="" coords="653,96,786,136"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="606,113,638,113,638,119,606,119"/>
+<area shape="poly" id="edge9_Node000009_Node000006" title=" " alt="" coords="568,259,639,259,639,264,568,264"/>
+<area shape="rect" id="Node000010" href="$namespacecbdc_1_1parsec_1_1agent_1_1runner.html#a3bc8e3dae5bc3e09c7fd69b25cab8ec1" title="Converts the given transaction to an RLP encoded buffer conforming to Ethereums conventions." alt="" coords="653,302,786,343"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="569,277,639,297,638,302,567,282"/>
+<area shape="rect" id="Node000011" href="$namespacecbdc.html#a4baddbf83d4464e27552307eb44b0254" title="Turns an existing value into an rlp_value by first serializing it as a cbdc::buffer,..." alt="" coords="1073,286,1219,311"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="786,316,1057,301,1058,306,786,321"/>
+<area shape="rect" id="Node000014" href="$namespacecbdc.html#a34085e0fcf132d9237d3c54745593f95" title="RLP encodes an access list." alt="" coords="834,335,1025,361"/>
+<area shape="poly" id="edge14_Node000010_Node000014" title=" " alt="" coords="786,328,819,332,818,337,785,333"/>
+<area shape="rect" id="Node000012" href="$namespacecbdc.html#aed9c6313b2ae6e3d7f01340ab5a3076b" title="Serialize object into nuraft::buffer using a cbdc::nuraft_serializer." alt="" coords="1267,286,1394,311"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1220,296,1252,296,1252,301,1220,301"/>
+<area shape="rect" id="Node000013" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="1442,286,1581,311"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="1394,296,1426,296,1426,301,1394,301"/>
+<area shape="poly" id="edge16_Node000014_Node000011" title=" " alt="" coords="989,332,1071,313,1072,318,990,337"/>
+<area shape="rect" id="Node000015" href="$namespacecbdc.html#affe8176afd2f6240bef835fe8abded3c" title="Turns multiple rlp_value objects into an rlp_value of type array." alt="" coords="1075,335,1218,361"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="1025,345,1059,345,1059,351,1025,351"/>
+<area shape="poly" id="edge21_Node000018_Node000006" title=" " alt="" coords="567,304,659,276,660,281,569,309"/>
+<area shape="poly" id="edge22_Node000018_Node000010" title=" " alt="" coords="568,323,638,321,638,327,568,328"/>
+</map>

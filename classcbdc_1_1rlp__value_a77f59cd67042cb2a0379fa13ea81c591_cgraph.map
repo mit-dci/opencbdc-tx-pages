@@ -1,0 +1,5 @@
+<map id="cbdc::rlp_value::data" name="cbdc::rlp_value::data">
+<area shape="rect" id="Node000001" title="Returns a raw pointer to the start of the buffer data for rlp_value of type rlp_buffer." alt="" coords="5,5,144,31"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1buffer.html#a06b7affff5f9d9cd9845c7a78d72ec76" title="Returns a raw pointer to the start of the buffer data." alt="" coords="192,5,310,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,16,176,16,176,21,144,21"/>
+</map>

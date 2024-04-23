@@ -1,0 +1,5 @@
+<map id="cbdc::parsec::agent::rpc::exec_request" name="cbdc::parsec::agent::rpc::exec_request">
+<area shape="rect" id="Node000001" title="Agent contract execution RPC request message." alt="" coords="5,109,138,150"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1buffer.html" title="Buffer to store and retrieve byte data." alt="" coords="28,5,115,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,47,74,109,69,109,69,47"/>
+</map>

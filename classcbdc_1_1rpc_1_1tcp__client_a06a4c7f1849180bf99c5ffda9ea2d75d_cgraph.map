@@ -1,0 +1,12 @@
+<map id="cbdc::rpc::tcp_client::~tcp_client" name="cbdc::rpc::tcp_client::~tcp_client">
+<area shape="rect" id="Node000001" title="Destructor." alt="" coords="5,95,141,135"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1network_1_1connection__manager.html#a7be9b6b8c582cb5f3fdea1a9a34210a9" title="Shuts down the network listener and all existing peer connections." alt="" coords="189,95,359,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,112,173,112,173,118,141,118"/>
+<area shape="rect" id="Node000003" href="$classcbdc_1_1network_1_1tcp__listener.html#a9efda29d6a5995e2987e915aba3112e1" title="Stops the listener and unblocks any blocking calls associated with this listener." alt="" coords="418,29,543,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="339,92,401,72,403,77,341,97"/>
+<area shape="rect" id="Node000004" href="$classcbdc_1_1network_1_1peer.html#ad1121cc2946655fec2e53cb4704cc3cc" title="Clears any packets in the pending send queue." alt="" coords="414,95,546,135"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="359,112,399,112,399,118,359,118"/>
+<area shape="rect" id="Node000005" href="$classcbdc_1_1network_1_1socket__selector.html#abdfae01b7d5bb06cd0431f6780f33d8b" title="Unblocks a blocked wait() call." alt="" coords="407,160,553,201"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="341,133,400,152,398,157,339,138"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="441,29,439,19,446,10,459,5,480,3,503,5,516,11,514,16,501,10,480,8,461,10,449,15,444,20,446,28"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="cbdc::coordinator::controller::execute_transaction" name="cbdc::coordinator::controller::execute_transaction">
+<area shape="rect" id="Node000001" title="Coordinates a transaction among locking shards." alt="" coords="5,27,131,83"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc_1_1transaction_1_1validation.html#a6036a137d32c6ee72a9d6dd33588a81f" title="Validates the sentinel attestations attached to a compact transaction." alt="" coords="179,5,371,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,43,163,39,164,44,132,49"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc.html#aeca0663c5237402736e3127369854cb5" title="Converts a hash to a hexadecimal string." alt="" coords="222,70,328,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="132,61,207,71,206,76,131,66"/>
+</map>

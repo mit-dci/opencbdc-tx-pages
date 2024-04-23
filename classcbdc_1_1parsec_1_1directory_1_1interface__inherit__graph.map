@@ -1,0 +1,5 @@
+<map id="cbdc::parsec::directory::interface" name="cbdc::parsec::directory::interface">
+<area shape="rect" id="Node000001" title="Interface for a directory. Maps keys to shard IDs." alt="" coords="5,5,155,46"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1parsec_1_1directory_1_1impl.html" title="Implementation of a directory which map keys to shard IDs. Thread&#45;safe." alt="" coords="5,94,155,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,62,83,94,77,94,77,62"/>
+</map>

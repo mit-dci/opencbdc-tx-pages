@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['get_5fticket_5fnumber_5fcallback_5ftype_0',['get_ticket_number_callback_type',['../classcbdc_1_1parsec_1_1ticket__machine_1_1interface.html#a45e843c6b66fbc2ec028dc1af0c58571',1,'cbdc::parsec::ticket_machine::interface']]],
+  ['get_5fticket_5fnumber_5freturn_5ftype_1',['get_ticket_number_return_type',['../classcbdc_1_1parsec_1_1ticket__machine_1_1interface.html#a9cb8b290b54b37a28cc5424502f0392a',1,'cbdc::parsec::ticket_machine::interface']]],
+  ['get_5ftickets_5fcallback_5ftype_2',['get_tickets_callback_type',['../classcbdc_1_1parsec_1_1runtime__locking__shard_1_1interface.html#a9577cc524816cdeb4949764aaded8862',1,'cbdc::parsec::runtime_locking_shard::interface::get_tickets_callback_type'],['../classcbdc_1_1parsec_1_1runtime__locking__shard_1_1replicated__shard__interface.html#a01ac3139f7349c738b59db1db2ad3921',1,'cbdc::parsec::runtime_locking_shard::replicated_shard_interface::get_tickets_callback_type']]],
+  ['get_5ftickets_5freturn_5ftype_3',['get_tickets_return_type',['../classcbdc_1_1parsec_1_1runtime__locking__shard_1_1interface.html#add306f6fc3fe056cefd6d0d4583c1737',1,'cbdc::parsec::runtime_locking_shard::interface::get_tickets_return_type'],['../classcbdc_1_1parsec_1_1runtime__locking__shard_1_1replicated__shard__interface.html#a578c354bdcd95be15ae0bab844d29de0',1,'cbdc::parsec::runtime_locking_shard::replicated_shard_interface::get_tickets_return_type']]],
+  ['get_5ftickets_5fsuccess_5ftype_4',['get_tickets_success_type',['../classcbdc_1_1parsec_1_1runtime__locking__shard_1_1interface.html#a7eab1e4dd95e6f4aad70f44bab97447f',1,'cbdc::parsec::runtime_locking_shard::interface']]]
+];

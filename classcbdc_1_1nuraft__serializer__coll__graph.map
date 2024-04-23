@@ -1,0 +1,5 @@
+<map id="cbdc::nuraft_serializer" name="cbdc::nuraft_serializer">
+<area shape="rect" id="Node000001" title="Implements serializer for nuraft::buffer." alt="" coords="5,79,152,105"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1serializer.html" title="Interface for serializing objects into and out of raw bytes representations." alt="" coords="25,5,132,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,46,81,79,76,79,76,46"/>
+</map>
