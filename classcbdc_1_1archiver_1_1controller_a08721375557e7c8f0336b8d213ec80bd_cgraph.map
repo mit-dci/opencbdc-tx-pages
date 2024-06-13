@@ -1,0 +1,5 @@
+<map id="cbdc::archiver::controller::get_block" name="cbdc::archiver::controller::get_block">
+<area shape="rect" id="Node000001" title="Queries the archiver database for the block at the specified height." alt="" coords="5,5,166,46"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc.html#a39d62e54e1e49c05927fdbb302b815d5" title="Deserialize object of given type from a nuraft::buffer." alt="" coords="214,13,334,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,23,198,23,198,28,166,28"/>
+</map>

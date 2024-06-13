@@ -34,10 +34,11 @@ var hierarchy =
     ] ],
     [ "cbdc::parsec::agent::rpc::client", "classcbdc_1_1parsec_1_1agent_1_1rpc_1_1client.html", null ],
     [ "cbdc::rpc::client< Request, Response >", "classcbdc_1_1rpc_1_1client.html", [
-      [ "cbdc::rpc::tcp_client< request, response >", "classcbdc_1_1rpc_1_1tcp__client.html", null ],
       [ "cbdc::rpc::tcp_client< Request, Response >", "classcbdc_1_1rpc_1_1tcp__client.html", null ]
     ] ],
-    [ "cbdc::rpc::client< request, response >", "classcbdc_1_1rpc_1_1client.html", null ],
+    [ "cbdc::rpc::client< request, response >", "classcbdc_1_1rpc_1_1client.html", [
+      [ "cbdc::rpc::tcp_client< request, response >", "classcbdc_1_1rpc_1_1tcp__client.html", null ]
+    ] ],
     [ "cbdc::parsec::agent::runner::code_key", "structcbdc_1_1parsec_1_1agent_1_1runner_1_1code__key.html", null ],
     [ "cbdc::parsec::runtime_locking_shard::rpc::commit_request", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc_1_1commit__request.html", null ],
     [ "cbdc::transaction::compact_tx", "structcbdc_1_1transaction_1_1compact__tx.html", null ],
@@ -178,24 +179,25 @@ var hierarchy =
         [ "cbdc::ostream_serializer", "classcbdc_1_1ostream__serializer.html", null ]
       ] ]
     ] ],
+    [ "Server", null, [
+      [ "cbdc::rpc::tcp_server< Server >", "classcbdc_1_1rpc_1_1tcp__server.html", null ]
+    ] ],
     [ "cbdc::coordinator::rpc::server", "classcbdc_1_1coordinator_1_1rpc_1_1server.html", null ],
     [ "cbdc::parsec::runtime_locking_shard::rpc::server", "classcbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc_1_1server.html", null ],
-    [ "cbdc::rpc::server< Request, Response, InBuffer, OutBuffer >", "classcbdc_1_1rpc_1_1server.html", [
-      [ "cbdc::rpc::blocking_server< rpc::request, rpc::response, nuraft::buffer &, nuraft::ptr< nuraft::buffer > >", "classcbdc_1_1rpc_1_1blocking__server.html", [
-        [ "cbdc::locking_shard::state_machine", "classcbdc_1_1locking__shard_1_1state__machine.html", null ],
-        [ "cbdc::parsec::ticket_machine::state_machine", "classcbdc_1_1parsec_1_1ticket__machine_1_1state__machine.html", null ]
-      ] ],
+    [ "cbdc::rpc::server< Request, Response, InBuffer, OutBuffer >", "classcbdc_1_1rpc_1_1server.html", null ],
+    [ "cbdc::sentinel::rpc::server", "classcbdc_1_1sentinel_1_1rpc_1_1server.html", null ],
+    [ "cbdc::rpc::server< Request, Response, buffer, buffer >", "classcbdc_1_1rpc_1_1server.html", [
       [ "cbdc::rpc::async_server< Request, Response, InBuffer, OutBuffer >", "classcbdc_1_1rpc_1_1async__server.html", [
         [ "cbdc::raft::rpc::server", "classcbdc_1_1raft_1_1rpc_1_1server.html", null ]
       ] ],
       [ "cbdc::rpc::blocking_server< Request, Response, InBuffer, OutBuffer >", "classcbdc_1_1rpc_1_1blocking__server.html", null ]
     ] ],
-    [ "cbdc::sentinel::rpc::server", "classcbdc_1_1sentinel_1_1rpc_1_1server.html", null ],
-    [ "Server", null, [
-      [ "cbdc::rpc::tcp_server< Server >", "classcbdc_1_1rpc_1_1tcp__server.html", null ]
+    [ "cbdc::rpc::server< rpc::request, rpc::response, nuraft::buffer &, nuraft::ptr< nuraft::buffer > >", "classcbdc_1_1rpc_1_1server.html", [
+      [ "cbdc::rpc::blocking_server< rpc::request, rpc::response, nuraft::buffer &, nuraft::ptr< nuraft::buffer > >", "classcbdc_1_1rpc_1_1blocking__server.html", [
+        [ "cbdc::locking_shard::state_machine", "classcbdc_1_1locking__shard_1_1state__machine.html", null ],
+        [ "cbdc::parsec::ticket_machine::state_machine", "classcbdc_1_1parsec_1_1ticket__machine_1_1state__machine.html", null ]
+      ] ]
     ] ],
-    [ "cbdc::rpc::server< Request, Response, buffer, buffer >", "classcbdc_1_1rpc_1_1server.html", null ],
-    [ "cbdc::rpc::server< rpc::request, rpc::response, nuraft::buffer &, nuraft::ptr< nuraft::buffer > >", "classcbdc_1_1rpc_1_1server.html", null ],
     [ "cbdc::parsec::agent::rpc::server_interface", "classcbdc_1_1parsec_1_1agent_1_1rpc_1_1server__interface.html", [
       [ "cbdc::parsec::agent::rpc::http_server", "classcbdc_1_1parsec_1_1agent_1_1rpc_1_1http__server.html", null ],
       [ "cbdc::parsec::agent::rpc::server", "classcbdc_1_1parsec_1_1agent_1_1rpc_1_1server.html", null ]
@@ -233,6 +235,9 @@ var hierarchy =
     [ "cbdc::thread_pool", "classcbdc_1_1thread__pool.html", null ],
     [ "cbdc::parsec::runtime_locking_shard::replicated_shard_interface::ticket_type", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1replicated__shard__interface_1_1ticket__type.html", null ],
     [ "cbdc::parsec::runtime_locking_shard::rpc::try_lock_request", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1rpc_1_1try__lock__request.html", null ],
+    [ "Ts...", null, [
+      [ "cbdc::overloaded< Ts >", "structcbdc_1_1overloaded.html", null ]
+    ] ],
     [ "cbdc::locking_shard::tx", "structcbdc_1_1locking__shard_1_1tx.html", null ],
     [ "cbdc::watchtower::tx_error", "classcbdc_1_1watchtower_1_1tx__error.html", null ],
     [ "cbdc::watchtower::tx_error_incomplete", "structcbdc_1_1watchtower_1_1tx__error__incomplete.html", null ],
@@ -249,8 +254,5 @@ var hierarchy =
     [ "cbdc::parsec::runtime_locking_shard::wounded_details", "structcbdc_1_1parsec_1_1runtime__locking__shard_1_1wounded__details.html", null ],
     [ "leveldb::WriteOptions", null, [
       [ "cbdc::archiver::leveldbWriteOptions", "structcbdc_1_1archiver_1_1leveldbWriteOptions.html", null ]
-    ] ],
-    [ "cbdc::Ts", null, [
-      [ "cbdc::overloaded< Ts >", "structcbdc_1_1overloaded.html", null ]
     ] ]
 ];

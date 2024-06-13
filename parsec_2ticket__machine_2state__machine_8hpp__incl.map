@@ -1,7 +1,7 @@
 <map id="state_machine.hpp" name="state_machine.hpp">
 <area shape="rect" id="Node000001" title=" " alt="" coords="630,5,761,31"/>
 <area shape="rect" id="Node000002" href="$ticket__machine_2impl_8hpp.html" title=" " alt="" coords="590,226,659,252"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="694,32,653,153,635,212,630,211,647,152,689,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="694,32,654,153,635,212,630,211,649,152,689,31"/>
 <area shape="rect" id="Node000008" href="$logging_8hpp.html" title=" " alt="" coords="344,308,505,333"/>
 <area shape="poly" id="edge21_Node000001_Node000008" title=" " alt="" coords="686,33,448,298,444,294,682,30"/>
 <area shape="rect" id="Node000017" href="$parsec_2ticket__machine_2messages_8hpp.html" title=" " alt="" coords="663,153,768,178"/>

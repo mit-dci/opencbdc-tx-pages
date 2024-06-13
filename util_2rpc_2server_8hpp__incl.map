@@ -1,7 +1,7 @@
 <map id="server.hpp" name="server.hpp">
 <area shape="rect" id="Node000001" title=" " alt="" coords="188,5,270,31"/>
 <area shape="rect" id="Node000002" href="$header_8hpp.html" title=" " alt="" coords="5,160,90,186"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,23,153,27,114,37,78,54,50,81,42,95,40,112,42,145,37,146,34,112,37,94,45,77,75,49,113,32,152,22,187,17"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,23,153,27,115,37,79,54,51,81,44,95,41,112,43,145,38,145,35,112,39,94,47,77,76,50,113,32,152,22,187,18"/>
 <area shape="rect" id="Node000004" href="$util_2rpc_2messages_8hpp.html" title=" " alt="" coords="60,79,166,105"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,34,147,73,144,68,208,29"/>
 <area shape="rect" id="Node000005" title=" " alt="" coords="170,404,237,429"/>

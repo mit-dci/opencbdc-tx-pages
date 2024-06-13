@@ -4,11 +4,11 @@
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,206,103,162,154,113,167,104,170,108,157,118,107,166,70,209"/>
 <area shape="rect" id="Node000008" href="$namespacecbdc.html#aed9c6313b2ae6e3d7f01340ab5a3076b" title="Serialize object into nuraft::buffer using a cbdc::nuraft_serializer." alt="" coords="339,163,465,188"/>
 <area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="72,205,108,179,155,157,201,148,248,147,334,156,333,162,248,152,201,154,156,162,110,184,75,210"/>
-<area shape="rect" id="Node000010" href="$namespacecbdc_1_1transaction_1_1validation.html#a52fdff156ea9b66122ad1e02b03c84f5" title=" " alt="" coords="156,171,288,212"/>
-<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="107,209,140,203,141,209,108,214"/>
+<area shape="rect" id="Node000010" href="$namespacecbdc_1_1sentinel.html#a49451c48c108396eebfdb96a0873541e" title="Return a human&#45;readable string describing a tx_status." alt="" coords="163,171,281,212"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="107,209,147,202,148,207,108,214"/>
 <area shape="rect" id="Node000011" href="$namespacecbdc.html#aeca0663c5237402736e3127369854cb5" title="Converts a hash to a hexadecimal string." alt="" coords="169,236,275,262"/>
 <area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="108,227,154,235,153,240,108,232"/>
-<area shape="rect" id="Node000012" href="$namespacecbdc_1_1sentinel.html#a49451c48c108396eebfdb96a0873541e" title="Return a human&#45;readable string describing a tx_status." alt="" coords="163,286,281,327"/>
+<area shape="rect" id="Node000012" href="$namespacecbdc_1_1transaction_1_1validation.html#a52fdff156ea9b66122ad1e02b03c84f5" title=" " alt="" coords="156,286,288,327"/>
 <area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="83,232,157,272,165,276,163,281,154,277,81,237"/>
 <area shape="rect" id="Node000013" href="$namespacecbdc_1_1transaction.html#a43a4b189920471ef5363e91bc908a892" title="Calculates the unique hash of a full transaction." alt="" coords="159,351,285,392"/>
 <area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="69,233,104,282,129,310,157,336,163,341,160,345,154,340,125,314,100,285,64,236"/>

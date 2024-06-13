@@ -1,0 +1,9 @@
+<map id="cbdc::atomizer::state_machine::commit" name="cbdc::atomizer::state_machine::commit">
+<area shape="rect" id="Node000001" title="Executes the committed the raft log entry at the given index and return the state machine execution r..." alt="" coords="5,23,145,64"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc.html#a39d62e54e1e49c05927fdbb302b815d5" title="Deserialize object of given type from a nuraft::buffer." alt="" coords="196,5,316,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,31,180,26,181,31,146,36"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc.html#aed9c6313b2ae6e3d7f01340ab5a3076b" title="Serialize object into nuraft::buffer using a cbdc::nuraft_serializer." alt="" coords="193,55,319,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="146,50,178,54,177,60,145,55"/>
+<area shape="rect" id="Node000004" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="367,55,506,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="319,65,352,65,352,70,319,70"/>
+</map>

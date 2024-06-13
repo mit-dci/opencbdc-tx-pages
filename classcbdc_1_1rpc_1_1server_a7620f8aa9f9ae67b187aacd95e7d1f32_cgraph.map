@@ -1,0 +1,11 @@
+<map id="cbdc::rpc::server::make_failure_response" name="cbdc::rpc::server::make_failure_response">
+<area shape="rect" id="Node000001" title="Serialize a failure response buffer from the given request buffer." alt="" coords="5,27,161,68"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc.html#a39d62e54e1e49c05927fdbb302b815d5" title="Deserialize object of given type from a nuraft::buffer." alt="" coords="213,5,333,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,33,197,27,198,32,161,38"/>
+<area shape="rect" id="Node000003" href="$classcbdc_1_1rpc_1_1server.html#aa0c383cf6cf9a8fea5e263d832000627" title="Serialize a response into a buffer." alt="" coords="209,55,337,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,56,194,61,193,66,161,62"/>
+<area shape="rect" id="Node000004" href="$namespacecbdc.html#aed9c6313b2ae6e3d7f01340ab5a3076b" title="Serialize object into nuraft::buffer using a cbdc::nuraft_serializer." alt="" coords="385,63,511,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="337,73,370,73,370,78,337,78"/>
+<area shape="rect" id="Node000005" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="559,63,699,88"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="512,73,544,73,544,78,512,78"/>
+</map>

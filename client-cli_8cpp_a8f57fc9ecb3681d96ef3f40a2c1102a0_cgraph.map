@@ -8,11 +8,11 @@
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="292,207,314,195,331,176,339,157,346,136,362,114,373,104,376,108,366,117,351,138,344,158,335,179,318,199,294,212"/>
 <area shape="rect" id="Node000010" href="$namespacecbdc.html#aed9c6313b2ae6e3d7f01340ab5a3076b" title="Serialize object into nuraft::buffer using a cbdc::nuraft_serializer." alt="" coords="547,163,673,188"/>
 <area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="291,205,315,195,328,185,337,175,348,165,363,157,410,147,459,145,506,149,548,156,547,161,505,154,459,150,411,152,365,162,351,169,341,179,332,189,317,199,293,210"/>
-<area shape="rect" id="Node000012" href="$namespacecbdc_1_1transaction_1_1validation.html#a52fdff156ea9b66122ad1e02b03c84f5" title=" " alt="" coords="364,171,496,212"/>
-<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="293,210,348,202,349,207,293,216"/>
+<area shape="rect" id="Node000012" href="$namespacecbdc_1_1sentinel.html#a49451c48c108396eebfdb96a0873541e" title="Return a human&#45;readable string describing a tx_status." alt="" coords="372,171,489,212"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="293,210,355,200,356,206,293,216"/>
 <area shape="rect" id="Node000013" href="$namespacecbdc.html#aeca0663c5237402736e3127369854cb5" title="Converts a hash to a hexadecimal string." alt="" coords="378,236,483,262"/>
 <area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="293,226,363,236,362,241,293,231"/>
-<area shape="rect" id="Node000014" href="$namespacecbdc_1_1sentinel.html#a49451c48c108396eebfdb96a0873541e" title="Return a human&#45;readable string describing a tx_status." alt="" coords="372,286,489,327"/>
+<area shape="rect" id="Node000014" href="$namespacecbdc_1_1transaction_1_1validation.html#a52fdff156ea9b66122ad1e02b03c84f5" title=" " alt="" coords="364,286,496,327"/>
 <area shape="poly" id="edge13_Node000003_Node000014" title=" " alt="" coords="273,232,371,277,369,282,271,237"/>
 <area shape="rect" id="Node000015" href="$namespacecbdc_1_1transaction.html#a43a4b189920471ef5363e91bc908a892" title="Calculates the unique hash of a full transaction." alt="" coords="368,351,493,392"/>
 <area shape="poly" id="edge14_Node000003_Node000015" title=" " alt="" coords="256,232,302,281,366,336,373,341,370,345,362,340,298,285,252,236"/>

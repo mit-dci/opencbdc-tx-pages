@@ -1,5 +1,7 @@
 <map id="cbdc::parsec::agent::runner::check_tx_decode" name="cbdc::parsec::agent::runner::check_tx_decode">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,176,46"/>
-<area shape="rect" id="Node000002" href="$namespacecbdc_1_1parsec_1_1agent_1_1runner.html#aaaf5d46667ca69e251aa66c44b344cb7" title=" " alt="" coords="224,5,375,46"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,23,208,23,208,28,176,28"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,176,68"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc.html#a39d62e54e1e49c05927fdbb302b815d5" title="Deserialize object of given type from a nuraft::buffer." alt="" coords="239,5,360,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,33,223,26,224,31,177,38"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc_1_1parsec_1_1agent_1_1runner.html#aaaf5d46667ca69e251aa66c44b344cb7" title=" " alt="" coords="224,55,375,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,56,209,61,208,66,176,62"/>
 </map>
