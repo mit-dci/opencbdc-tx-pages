@@ -2,8 +2,8 @@
 <area shape="rect" id="Node000001" title="Signs each of the transaction&#39;s inputs using Schnorr signatures." alt="" coords="5,5,131,46"/>
 <area shape="rect" id="Node000002" href="$namespacecbdc_1_1transaction.html#a43a4b189920471ef5363e91bc908a892" title="Calculates the unique hash of a full transaction." alt="" coords="179,5,304,46"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,23,163,23,163,28,131,28"/>
-<area shape="rect" id="Node000003" href="$namespacecbdc.html#aed9c6313b2ae6e3d7f01340ab5a3076b" title="Serialize object into nuraft::buffer using a cbdc::nuraft_serializer." alt="" coords="352,13,478,39"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc.html#aed9c6313b2ae6e3d7f01340ab5a3076b" title="Serialize object into nuraft::buffer using a cbdc::nuraft_serializer." alt="" coords="352,13,478,38"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="304,23,337,23,337,28,304,28"/>
-<area shape="rect" id="Node000004" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="526,13,666,39"/>
+<area shape="rect" id="Node000004" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="526,13,666,38"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="479,23,511,23,511,28,479,28"/>
 </map>

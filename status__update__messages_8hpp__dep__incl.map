@@ -2,7 +2,7 @@
 <area shape="rect" id="Node000001" title="Watchtower module to process and cache block history." alt="" coords="221,5,415,31"/>
 <area shape="rect" id="Node000002" href="$uhs_2atomizer_2watchtower_2client_8hpp.html" title="Client helpers for interfacing with a watchtower server." alt="" coords="137,79,214,105"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="281,41,201,81,199,76,279,36"/>
-<area shape="rect" id="Node000007" href="$status__update_8hpp.html" title=" " alt="" coords="487,79,614,105"/>
+<area shape="rect" id="Node000007" href="$status__update_8hpp.html" title=" " alt="" coords="486,79,614,105"/>
 <area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="373,33,511,76,510,81,371,38"/>
 <area shape="rect" id="Node000003" href="$atomizer__client_8hpp.html" title=" " alt="" coords="5,153,138,178"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,116,91,154,88,150,144,111"/>
@@ -14,7 +14,7 @@
 <area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="74,194,74,226,69,226,69,194"/>
 <area shape="rect" id="Node000008" href="$uhs_2atomizer_2watchtower_2controller_8cpp.html" title=" " alt="" coords="668,300,766,326"/>
 <area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="630,105,680,120,730,145,773,179,791,201,803,225,807,239,803,253,792,269,778,282,748,302,745,297,775,278,788,266,798,251,802,239,798,227,786,204,770,183,727,149,678,125,628,110"/>
-<area shape="rect" id="Node000009" href="$status__update_8cpp.html" title=" " alt="" coords="213,153,341,178"/>
+<area shape="rect" id="Node000009" href="$status__update_8cpp.html" title=" " alt="" coords="213,153,340,178"/>
 <area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="490,111,324,155,323,149,489,106"/>
 <area shape="rect" id="Node000010" href="$status__update__messages_8cpp.html" title=" " alt="" coords="365,153,559,178"/>
 <area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="525,117,479,154,475,150,522,113"/>
@@ -30,6 +30,6 @@
 <area shape="rect" id="Node000015" href="$uhs_2atomizer_2watchtower_2messages_8cpp.html" title=" " alt="" coords="547,226,652,252"/>
 <area shape="poly" id="edge17_Node000012_Node000015" title=" " alt="" coords="628,193,609,227,604,225,623,191"/>
 <area shape="poly" id="edge15_Node000013_Node000008" title=" " alt="" coords="530,254,676,297,675,302,529,259"/>
-<area shape="rect" id="Node000014" href="$watchtowerd_8cpp.html" title=" " alt="" coords="415,300,534,326"/>
+<area shape="rect" id="Node000014" href="$watchtowerd_8cpp.html" title=" " alt="" coords="414,300,534,326"/>
 <area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="477,267,477,300,472,300,472,267"/>
 </map>

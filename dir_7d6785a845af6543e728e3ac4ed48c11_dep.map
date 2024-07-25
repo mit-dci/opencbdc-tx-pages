@@ -1,6 +1,6 @@
 <map id="sentinel_2pc" name="sentinel_2pc">
 <area shape="rect" id="node1" href="dir_a042e16f9318f55494608e571ab05eac.html" title="coordinator" alt="" coords="31,126,116,152"/>
-<area shape="rect" id="node2" href="dir_7d6785a845af6543e728e3ac4ed48c11.html" title="sentinel_2pc" alt="" coords="26,52,121,78"/>
+<area shape="rect" id="node2" href="dir_7d6785a845af6543e728e3ac4ed48c11.html" title="sentinel_2pc" alt="" coords="26,52,120,78"/>
 <area shape="poly" id="edge2" href="dir_000021_000007.html" alt="" coords="76,78,76,110,71,110,71,78"/>
 <area shape="rect" id="edge2-headlabel" href="dir_000021_000007.html" title="2" alt="" coords="78,100,85,115"/>
 <area shape="rect" id="node3" href="dir_37580d160e1df2000f3123046712f376.html" title="transaction" alt="" coords="141,126,227,152"/>
@@ -9,7 +9,7 @@
 <area shape="rect" id="node4" href="dir_b7878ad5ecbf2506f4125b9d34c97e45.html" title="util" alt="" coords="250,126,289,152"/>
 <area shape="poly" id="edge3" href="dir_000021_000029.html" alt="" coords="108,76,237,123,235,128,106,81"/>
 <area shape="rect" id="edge3-headlabel" href="dir_000021_000029.html" title="7" alt="" coords="232,108,239,123"/>
-<area shape="rect" id="node5" href="dir_dcf042bf7a9d087a370ab7091c6f0613.html" title="sentinel" alt="" coords="312,126,379,152"/>
+<area shape="rect" id="node5" href="dir_dcf042bf7a9d087a370ab7091c6f0613.html" title="sentinel" alt="" coords="312,126,378,152"/>
 <area shape="poly" id="edge4" href="dir_000021_000020.html" alt="" coords="120,76,298,122,297,128,119,81"/>
 <area shape="rect" id="edge4-headlabel" href="dir_000021_000020.html" title="4" alt="" coords="293,109,300,124"/>
 <area shape="rect" id="clust1" href="dir_47479cac6c0eeb879592ebf07181e2a0.html" title="twophase" alt="" coords="16,16,131,162"/>

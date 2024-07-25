@@ -1,10 +1,10 @@
 <map id="cbdc::config::read_shard_endpoints" name="cbdc::config::read_shard_endpoints">
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,104,129,145"/>
-<area shape="rect" id="Node000002" href="$namespacecbdc_1_1config.html#a156d9dde7e6e6381fa15971202b4d488" title=" " alt="" coords="180,5,333,46"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc_1_1config.html#a156d9dde7e6e6381fa15971202b4d488" title=" " alt="" coords="180,5,332,46"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,101,175,57,188,50,190,55,178,61,102,106"/>
-<area shape="rect" id="Node000004" href="$namespacecbdc_1_1config.html#aa149b3d98e6adb36f8f6d4ecc949b381" title=" " alt="" coords="180,71,333,111"/>
+<area shape="rect" id="Node000004" href="$namespacecbdc_1_1config.html#aa149b3d98e6adb36f8f6d4ecc949b381" title=" " alt="" coords="180,71,332,111"/>
 <area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="128,111,164,104,165,110,129,116"/>
-<area shape="rect" id="Node000005" href="$namespacecbdc_1_1config.html#a5cffbb48060f5b41635f41971f7571d3" title=" " alt="" coords="180,136,333,177"/>
+<area shape="rect" id="Node000005" href="$namespacecbdc_1_1config.html#a5cffbb48060f5b41635f41971f7571d3" title=" " alt="" coords="180,136,332,177"/>
 <area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="129,132,165,138,164,144,128,137"/>
 <area shape="rect" id="Node000006" href="$namespacecbdc_1_1config.html#aa45632ffcad01aa186579dd99dc5bf08" title=" " alt="" coords="177,201,336,242"/>
 <area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="102,143,178,186,190,192,188,197,175,191,100,147"/>

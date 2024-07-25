@@ -2,6 +2,6 @@
 <area shape="rect" id="Node000001" title="Constructor." alt="" coords="5,39,174,79"/>
 <area shape="rect" id="Node000002" href="$classcbdc_1_1atomizer_1_1state__machine.html#abc07963cc52953e94b6108a1f00e67c6" title="Replaces the state of the state machine with the state stored in the snapshot referenced by the given..." alt="" coords="222,5,395,46"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,44,206,39,206,44,174,49"/>
-<area shape="rect" id="Node000003" href="$classcbdc_1_1atomizer_1_1state__machine.html#ae81f026e70b7fd2a956940b94b37eb1b" title="Returns the most recent snapshot metadata." alt="" coords="226,71,391,111"/>
+<area shape="rect" id="Node000003" href="$classcbdc_1_1atomizer_1_1state__machine.html#ae81f026e70b7fd2a956940b94b37eb1b" title="Returns the most recent snapshot metadata." alt="" coords="226,71,390,111"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,69,211,74,210,79,173,74"/>
 </map>

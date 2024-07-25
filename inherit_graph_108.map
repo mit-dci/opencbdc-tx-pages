@@ -2,17 +2,17 @@
 <area shape="rect" id="Node000000" href="$classcbdc_1_1rpc_1_1server.html" title=" " alt="" coords="5,8,158,94"/>
 <area shape="rect" id="Node000001" href="$classcbdc_1_1rpc_1_1blocking__server.html" title=" " alt="" coords="206,8,352,94"/>
 <area shape="poly" id="edge32_Node000000_Node000001" title=" " alt="" coords="173,48,206,48,206,54,173,54"/>
-<area shape="rect" id="Node000002" href="$classcbdc_1_1locking__shard_1_1state__machine.html" title="Raft state machine for handling locking shard RPC requests." alt="" coords="417,71,552,111"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1locking__shard_1_1state__machine.html" title="Raft state machine for handling locking shard RPC requests." alt="" coords="416,71,552,111"/>
 <area shape="poly" id="edge33_Node000001_Node000002" title=" " alt="" coords="368,66,417,75,416,80,367,71"/>
 <area shape="rect" id="Node000007" href="$classcbdc_1_1parsec_1_1ticket__machine_1_1state__machine.html" title="NuRaft state machine implementation for a replicated ticket machine." alt="" coords="400,5,568,46"/>
 <area shape="poly" id="edge34_Node000001_Node000007" title=" " alt="" coords="367,37,399,33,400,39,368,43"/>
 <area shape="rect" id="Node000003" title=" " alt="" coords="206,144,352,169"/>
 <area shape="poly" id="edge37_Node000003_Node000002" title=" " alt="" coords="335,136,417,109,419,114,337,141"/>
 <area shape="poly" id="edge39_Node000003_Node000007" title=" " alt="" coords="312,132,350,104,373,79,398,57,421,44,424,49,402,61,377,83,354,108,315,137"/>
-<area shape="rect" id="Node000004" href="$classcbdc_1_1atomizer_1_1state__machine.html" title="Raft state machine for managing a replicated atomizer." alt="" coords="415,136,554,177"/>
+<area shape="rect" id="Node000004" href="$classcbdc_1_1atomizer_1_1state__machine.html" title="Raft state machine for managing a replicated atomizer." alt="" coords="414,136,554,177"/>
 <area shape="poly" id="edge35_Node000003_Node000004" title=" " alt="" coords="367,154,414,154,414,159,367,159"/>
 <area shape="rect" id="Node000005" href="$classcbdc_1_1coordinator_1_1state__machine.html" title="Raft state machine for managing a replicated coordinator." alt="" coords="422,201,547,242"/>
 <area shape="poly" id="edge36_Node000003_Node000005" title=" " alt="" coords="337,172,422,199,420,204,335,177"/>
-<area shape="rect" id="Node000006" href="$classcbdc_1_1parsec_1_1runtime__locking__shard_1_1state__machine.html" title="NuRaft state machine implementation for a runtime locking shard." alt="" coords="413,266,556,322"/>
+<area shape="rect" id="Node000006" href="$classcbdc_1_1parsec_1_1runtime__locking__shard_1_1state__machine.html" title="NuRaft state machine implementation for a runtime locking shard." alt="" coords="412,266,556,322"/>
 <area shape="poly" id="edge38_Node000003_Node000006" title=" " alt="" coords="307,178,350,214,401,251,421,263,419,268,399,256,347,218,304,182"/>
 </map>

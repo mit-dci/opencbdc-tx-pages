@@ -2,6 +2,6 @@
 <area shape="rect" id="Node000000" href="$classcbdc_1_1parsec_1_1agent_1_1runner_1_1interface.html" title="Interface for a contract runner." alt="" coords="5,39,138,79"/>
 <area shape="rect" id="Node000001" href="$classcbdc_1_1parsec_1_1agent_1_1runner_1_1evm__runner.html" title="Executes EVM transactions, implementing the runner interface." alt="" coords="186,5,323,46"/>
 <area shape="poly" id="edge14_Node000000_Node000001" title=" " alt="" coords="152,42,185,36,186,41,153,47"/>
-<area shape="rect" id="Node000002" href="$classcbdc_1_1parsec_1_1agent_1_1runner_1_1lua__runner.html" title="Lua function executor." alt="" coords="188,71,321,111"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1parsec_1_1agent_1_1runner_1_1lua__runner.html" title="Lua function executor." alt="" coords="188,71,320,111"/>
 <area shape="poly" id="edge15_Node000000_Node000002" title=" " alt="" coords="153,71,189,77,188,82,152,76"/>
 </map>

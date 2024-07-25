@@ -2,7 +2,7 @@
 <area shape="rect" id="Node000001" title="Constructor." alt="" coords="5,55,131,96"/>
 <area shape="rect" id="Node000002" href="$classcbdc_1_1transaction_1_1wallet.html#adeee389cb2c0204200931f98855dbf5b" title="Marks the wallet as having pre&#45;seeded outputs to spend." alt="" coords="179,55,304,96"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,73,163,73,163,78,131,78"/>
-<area shape="rect" id="Node000003" href="$namespacecbdc_1_1transaction_1_1validation.html#a1f44c99a0ee81639bae8c5e0c783fd95" title=" " alt="" coords="365,14,517,70"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc_1_1transaction_1_1validation.html#a1f44c99a0ee81639bae8c5e0c783fd95" title=" " alt="" coords="364,14,517,70"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="304,62,349,55,350,60,305,68"/>
 <area shape="rect" id="Node000006" href="$namespacecbdc.html#aef77ae84c0c1123602cdfad838489b50" title="Generates a public key from the specified private key." alt="" coords="352,95,529,120"/>
 <area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="305,83,342,89,341,94,304,88"/>

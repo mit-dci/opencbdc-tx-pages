@@ -1,6 +1,6 @@
 <map id="util.hpp" name="util.hpp">
 <area shape="rect" id="Node000001" title=" " alt="" coords="130,5,192,31"/>
-<area shape="rect" id="Node000002" href="$util_2raft_2serialization_8hpp.html" title=" " alt="" coords="29,87,143,112"/>
+<area shape="rect" id="Node000002" href="$util_2raft_2serialization_8hpp.html" title=" " alt="" coords="29,86,143,112"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,33,110,77,106,73,147,30"/>
 <area shape="rect" id="Node000006" href="$util_2serialization_2util_8hpp.html" title=" " alt="" coords="258,79,368,120"/>
 <area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="185,29,263,69,261,74,183,34"/>
@@ -17,7 +17,7 @@
 <area shape="rect" id="Node000013" title=" " alt="" coords="482,168,549,193"/>
 <area shape="poly" id="edge14_Node000006_Node000013" title=" " alt="" coords="364,118,471,159,469,164,362,123"/>
 <area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="367,196,287,236,285,232,365,192"/>
-<area shape="rect" id="Node000008" href="$buffer_8hpp.html" title=" " alt="" coords="317,249,469,275"/>
+<area shape="rect" id="Node000008" href="$buffer_8hpp.html" title=" " alt="" coords="317,249,469,274"/>
 <area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="393,194,395,233,389,233,388,194"/>
 <area shape="rect" id="Node000009" title=" " alt="" coords="281,330,347,356"/>
 <area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="383,277,339,321,335,317,379,273"/>

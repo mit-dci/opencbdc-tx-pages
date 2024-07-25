@@ -1,8 +1,8 @@
 <map id="server.hpp" name="server.hpp">
-<area shape="rect" id="Node000001" title=" " alt="" coords="263,5,345,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="263,5,344,31"/>
 <area shape="rect" id="Node000002" href="$uhs_2twophase_2coordinator_2controller_8hpp.html" title=" " alt="" coords="199,79,297,105"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="287,45,259,80,255,77,283,41"/>
-<area shape="rect" id="Node000009" href="$uhs_2twophase_2coordinator_2server_8cpp.html" title=" " alt="" coords="321,79,402,105"/>
+<area shape="rect" id="Node000009" href="$uhs_2twophase_2coordinator_2server_8cpp.html" title=" " alt="" coords="320,79,402,105"/>
 <area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="325,41,354,77,349,80,321,45"/>
 <area shape="rect" id="Node000003" href="$uhs_2twophase_2coordinator_2controller_8cpp.html" title=" " alt="" coords="5,226,104,252"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="222,116,72,228,69,224,218,112"/>
@@ -11,7 +11,7 @@
 <area shape="rect" id="Node000005" href="$uhs_2twophase_2coordinator_2format_8cpp.html" title=" " alt="" coords="128,226,210,252"/>
 <area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="225,117,197,154,181,193,174,227,168,226,176,191,192,151,221,114"/>
 <area shape="rect" id="Node000006" href="$uhs_2twophase_2coordinator_2format_8hpp.html" title=" " alt="" coords="207,153,289,178"/>
-<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="251,120,251,152,245,152,245,120"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="250,120,250,152,245,152,245,120"/>
 <area shape="rect" id="Node000008" href="$uhs_2twophase_2coordinator_2state__machine_8cpp.html" title=" " alt="" coords="357,226,488,252"/>
 <area shape="poly" id="edge10_Node000002_Node000008" title=" " alt="" coords="275,112,410,224,406,228,272,116"/>
 <area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="202,187,88,228,87,223,200,182"/>

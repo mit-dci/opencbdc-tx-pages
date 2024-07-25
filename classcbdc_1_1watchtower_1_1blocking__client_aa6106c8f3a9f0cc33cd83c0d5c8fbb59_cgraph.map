@@ -1,7 +1,7 @@
 <map id="cbdc::watchtower::blocking_client::request_best_block_height" name="cbdc::watchtower::blocking_client::request_best_block_height">
 <area shape="rect" id="Node000001" title="Sends a request_best_block_height to the Watchtower." alt="" coords="5,5,226,46"/>
-<area shape="rect" id="Node000002" href="$namespacecbdc.html#ae3bea62975afe6c33744795e6456f9b7" title="Serialize object into std::shared_ptr&lt;cbdc::buffer&gt; using a cbdc::buffer_serializer." alt="" coords="274,13,446,39"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc.html#ae3bea62975afe6c33744795e6456f9b7" title="Serialize object into std::shared_ptr&lt;cbdc::buffer&gt; using a cbdc::buffer_serializer." alt="" coords="274,13,446,38"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,23,258,23,258,28,226,28"/>
-<area shape="rect" id="Node000003" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="494,13,633,39"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="494,13,633,38"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="446,23,478,23,478,28,446,28"/>
 </map>

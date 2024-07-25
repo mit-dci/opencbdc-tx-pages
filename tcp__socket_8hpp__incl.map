@@ -1,6 +1,6 @@
 <map id="tcp_socket.hpp" name="tcp_socket.hpp">
 <area shape="rect" id="Node000001" title=" " alt="" coords="180,5,289,31"/>
-<area shape="rect" id="Node000002" href="$socket_8hpp.html" title=" " alt="" coords="34,87,118,112"/>
+<area shape="rect" id="Node000002" href="$socket_8hpp.html" title=" " alt="" coords="34,86,118,112"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,34,115,82,113,77,209,29"/>
 <area shape="rect" id="Node000006" href="$buffer_8hpp.html" title=" " alt="" coords="80,256,232,282"/>
 <area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="232,33,184,168,165,242,159,240,179,167,227,31"/>
@@ -8,7 +8,7 @@
 <area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="238,31,243,72,251,96,262,118,281,139,304,157,300,161,277,143,258,121,246,98,238,73,232,31"/>
 <area shape="rect" id="Node000012" href="$util_2serialization_2util_8hpp.html" title=" " alt="" coords="272,79,382,120"/>
 <area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="250,29,294,67,291,71,247,33"/>
-<area shape="rect" id="Node000014" title=" " alt="" coords="406,87,466,112"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="406,86,466,112"/>
 <area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="269,29,394,77,397,78,395,82,392,81,267,34"/>
 <area shape="rect" id="Node000003" title=" " alt="" coords="193,175,260,201"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="98,110,194,165,191,169,96,115"/>

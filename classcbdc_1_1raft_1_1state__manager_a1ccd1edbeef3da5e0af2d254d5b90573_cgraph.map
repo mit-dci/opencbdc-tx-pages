@@ -1,5 +1,5 @@
 <map id="cbdc::raft::state_manager::save_config" name="cbdc::raft::state_manager::save_config">
 <area shape="rect" id="Node000001" title="Serialize and write the given cluster configuration." alt="" coords="5,5,172,46"/>
-<area shape="rect" id="Node000002" href="$namespacecbdc_1_1raft.html#a76d8a8874d7036c2cfd3a453d889e374" title=" " alt="" coords="220,13,370,39"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc_1_1raft.html#a76d8a8874d7036c2cfd3a453d889e374" title=" " alt="" coords="220,13,370,38"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,23,204,23,204,28,172,28"/>
 </map>

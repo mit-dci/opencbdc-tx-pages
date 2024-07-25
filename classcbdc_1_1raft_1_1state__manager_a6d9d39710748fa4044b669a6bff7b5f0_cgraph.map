@@ -1,5 +1,5 @@
 <map id="cbdc::raft::state_manager::load_config" name="cbdc::raft::state_manager::load_config">
 <area shape="rect" id="Node000001" title="Read and deserialize the cluster configuration." alt="" coords="5,5,172,46"/>
-<area shape="rect" id="Node000002" href="$namespacecbdc_1_1raft.html#a183da30e2e2bd0af9322055ccccc2cea" title=" " alt="" coords="220,13,366,39"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc_1_1raft.html#a183da30e2e2bd0af9322055ccccc2cea" title=" " alt="" coords="220,13,366,38"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,23,204,23,204,28,172,28"/>
 </map>

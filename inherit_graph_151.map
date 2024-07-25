@@ -1,5 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,13,101,39"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,13,101,38"/>
 <area shape="rect" id="Node000001" href="$classcbdc_1_1raft_1_1console__logger.html" title="nuraft::logger implementation using logging::log." alt="" coords="149,5,274,46"/>
 <area shape="poly" id="edge56_Node000000_Node000001" title=" " alt="" coords="116,23,148,23,148,28,116,28"/>
 </map>

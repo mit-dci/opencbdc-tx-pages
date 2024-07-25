@@ -1,7 +1,7 @@
 <map id="util.hpp" name="util.hpp">
 <area shape="rect" id="Node000001" title=" " alt="" coords="192,5,254,31"/>
 <area shape="rect" id="Node000002" href="$buffer__serializer_8hpp.html" title=" " alt="" coords="156,79,291,105"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,31,226,63,221,63,221,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,31,226,63,220,63,220,31"/>
 <area shape="rect" id="Node000009" href="$size__serializer_8hpp.html" title=" " alt="" coords="5,79,132,105"/>
 <area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="198,34,110,75,107,70,196,29"/>
 <area shape="rect" id="Node000010" title=" " alt="" coords="315,79,382,105"/>

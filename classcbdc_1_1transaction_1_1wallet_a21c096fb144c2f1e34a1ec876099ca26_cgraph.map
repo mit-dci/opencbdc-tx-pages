@@ -1,6 +1,6 @@
 <map id="cbdc::transaction::wallet::generate_key" name="cbdc::transaction::wallet::generate_key">
 <area shape="rect" id="Node000001" title="Generates a new public key at which this wallet can receive payments via send_to." alt="" coords="5,55,144,96"/>
-<area shape="rect" id="Node000002" href="$namespacecbdc_1_1transaction_1_1validation.html#a1f44c99a0ee81639bae8c5e0c783fd95" title=" " alt="" coords="204,14,357,70"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc_1_1transaction_1_1validation.html#a1f44c99a0ee81639bae8c5e0c783fd95" title=" " alt="" coords="204,14,356,70"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,62,188,54,189,60,144,67"/>
 <area shape="rect" id="Node000005" href="$namespacecbdc.html#aef77ae84c0c1123602cdfad838489b50" title="Generates a public key from the specified private key." alt="" coords="192,95,369,120"/>
 <area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="144,84,179,89,178,94,144,89"/>

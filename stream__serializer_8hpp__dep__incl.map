@@ -1,7 +1,7 @@
 <map id="stream_serializer.hpp" name="stream_serializer.hpp">
 <area shape="rect" id="Node000001" title=" " alt="" coords="404,5,547,31"/>
 <area shape="rect" id="Node000002" href="$istream__serializer_8hpp.html" title=" " alt="" coords="402,79,548,105"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="478,46,478,79,473,79,473,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="478,46,478,79,472,79,472,46"/>
 <area shape="rect" id="Node000008" href="$ostream__serializer_8hpp.html" title=" " alt="" coords="228,79,378,105"/>
 <area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="433,40,334,81,331,76,431,35"/>
 <area shape="rect" id="Node000010" href="$stream__serializer_8cpp.html" title=" " alt="" coords="573,79,716,105"/>
@@ -15,7 +15,7 @@
 <area shape="rect" id="Node000006" href="$uhs_2atomizer_2atomizer_2state__machine_8cpp.html" title=" " alt="" coords="281,153,411,178"/>
 <area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="441,115,369,154,367,150,439,110"/>
 <area shape="rect" id="Node000007" href="$wallet_8cpp.html" title=" " alt="" coords="436,153,515,178"/>
-<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="478,120,478,152,473,152,473,120"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="478,120,478,152,472,152,472,120"/>
 <area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="279,117,234,154,230,150,275,113"/>
 <area shape="poly" id="edge10_Node000008_Node000006" title=" " alt="" coords="320,116,341,151,336,154,316,119"/>
 <area shape="poly" id="edge11_Node000008_Node000007" title=" " alt="" coords="347,108,447,150,445,155,345,113"/>

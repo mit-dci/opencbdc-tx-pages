@@ -4,26 +4,26 @@
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="30,1089,52,846,74,659,100,467,137,262,170,111,175,112,143,263,105,467,79,660,58,847,35,1090"/>
 <area shape="rect" id="Node000004" href="$classcbdc_1_1client.html#aff758829cabeed3cb728a468f508082f" title="Format a value given in currency base units as USD." alt="" coords="332,5,449,46"/>
 <area shape="poly" id="edge55_Node000001_Node000004" title=" " alt="" coords="29,1090,29,891,36,560,44,388,57,235,75,119,87,80,101,56,123,37,149,23,176,13,205,7,263,4,317,8,317,13,263,9,206,12,178,18,151,28,126,41,105,59,92,82,81,120,62,236,50,388,41,560,34,891,34,1090"/>
-<area shape="rect" id="Node000005" href="$client-cli_8cpp.html#afcf4411eed8031177b7f28f99f81f8ac" title=" " alt="" coords="129,1041,232,1067"/>
+<area shape="rect" id="Node000005" href="$client-cli_8cpp.html#afcf4411eed8031177b7f28f99f81f8ac" title=" " alt="" coords="129,1041,232,1066"/>
 <area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="54,1092,102,1075,120,1069,122,1074,104,1080,56,1097"/>
 <area shape="rect" id="Node000020" href="$namespacecbdc_1_1config.html#ad4be7fdff41e9407810e53818ecea924" title="Converts c&#45;args from an executable&#39;s main function into a vector of strings." alt="" coords="108,1192,253,1217"/>
 <area shape="poly" id="edge16_Node000001_Node000020" title=" " alt="" coords="44,1114,70,1142,104,1170,126,1182,124,1187,101,1175,66,1146,40,1118"/>
-<area shape="rect" id="Node000021" href="$client-cli_8cpp.html#aeed4f46ae9772a4898f8b880fe06675f" title=" " alt="" coords="106,1241,255,1267"/>
+<area shape="rect" id="Node000021" href="$client-cli_8cpp.html#aeed4f46ae9772a4898f8b880fe06675f" title=" " alt="" coords="106,1241,255,1266"/>
 <area shape="poly" id="edge17_Node000001_Node000021" title=" " alt="" coords="38,1115,60,1170,79,1201,104,1228,108,1231,105,1235,101,1232,75,1204,55,1172,33,1117"/>
 <area shape="rect" id="Node000024" href="$namespacecbdc_1_1config.html#a58e2eb86244705e835c07541355a5309" title="Loads options from the given config file and check for invariants." alt="" coords="121,479,240,519"/>
 <area shape="poly" id="edge20_Node000001_Node000024" title=" " alt="" coords="32,1089,168,533,173,535,37,1090"/>
-<area shape="rect" id="Node000068" href="$client-cli_8cpp.html#accdaf728cf67c681400bee24be079e6d" title=" " alt="" coords="336,1153,446,1179"/>
+<area shape="rect" id="Node000068" href="$client-cli_8cpp.html#accdaf728cf67c681400bee24be079e6d" title=" " alt="" coords="336,1153,446,1178"/>
 <area shape="poly" id="edge50_Node000001_Node000068" title=" " alt="" coords="56,1110,103,1126,217,1147,321,1158,320,1163,217,1152,102,1131,54,1115"/>
 <area shape="rect" id="Node000069" href="$client-cli_8cpp.html#ad783cb0cb4e4184edcd5fb3a71d98377" title=" " alt="" coords="103,1290,258,1316"/>
 <area shape="poly" id="edge53_Node000001_Node000069" title=" " alt="" coords="35,1116,41,1148,53,1192,74,1238,88,1259,105,1277,108,1280,104,1284,101,1281,84,1262,69,1240,48,1194,36,1150,30,1117"/>
 <area shape="rect" id="Node000071" href="$client-cli_8cpp.html#a8f57fc9ecb3681d96ef3f40a2c1102a0" title=" " alt="" coords="124,1090,237,1116"/>
 <area shape="poly" id="edge56_Node000001_Node000071" title=" " alt="" coords="55,1100,108,1100,108,1106,55,1106"/>
-<area shape="rect" id="Node000003" href="$namespacecbdc.html#aafd742f41d950c51068a394340e6d9b0" title="Parses a hexadecimal representation of a hash." alt="" coords="736,53,880,79"/>
+<area shape="rect" id="Node000003" href="$namespacecbdc.html#aafd742f41d950c51068a394340e6d9b0" title="Parses a hexadecimal representation of a hash." alt="" coords="736,53,880,78"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="249,78,721,65,721,71,249,84"/>
 <area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="230,67,316,43,317,48,231,72"/>
 <area shape="rect" id="Node000006" href="$namespacecbdc_1_1address.html#a32c013cd0545a42a1d5e997881e53aed" title=" " alt="" coords="316,1090,465,1116"/>
 <area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="233,1063,319,1083,317,1089,232,1068"/>
-<area shape="rect" id="Node000007" href="$client-cli_8cpp.html#afdc2f698f7384cbc9b825c591371f599" title=" " alt="" coords="340,1041,442,1067"/>
+<area shape="rect" id="Node000007" href="$client-cli_8cpp.html#afdc2f698f7384cbc9b825c591371f599" title=" " alt="" coords="340,1041,442,1066"/>
 <area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="232,1051,324,1051,324,1056,232,1056"/>
 <area shape="rect" id="Node000008" href="$classcbdc_1_1client.html#ab78fb6f2b72e00d461c07618fedea288" title="Extracts the transaction data that recipients need from senders to confirm pending transfers." alt="" coords="532,919,659,959"/>
 <area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="413,1038,522,975,541,965,544,969,525,980,416,1043"/>
@@ -42,13 +42,13 @@
 <area shape="rect" id="Node000015" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="948,1176,1087,1201"/>
 <area shape="poly" id="edge10_Node000014_Node000015" title=" " alt="" coords="871,1186,932,1186,932,1191,871,1191"/>
 <area shape="poly" id="edge15_Node000019_Node000014" title=" " alt="" coords="658,1218,729,1202,730,1208,659,1223"/>
-<area shape="rect" id="Node000022" href="$namespacecbdc.html#a39d62e54e1e49c05927fdbb302b815d5" title="Deserialize object of given type from a nuraft::buffer." alt="" coords="331,1202,451,1228"/>
+<area shape="rect" id="Node000022" href="$namespacecbdc.html#a39d62e54e1e49c05927fdbb302b815d5" title="Deserialize object of given type from a nuraft::buffer." alt="" coords="330,1202,451,1228"/>
 <area shape="poly" id="edge18_Node000021_Node000022" title=" " alt="" coords="253,1238,315,1226,316,1231,254,1243"/>
 <area shape="rect" id="Node000023" href="$classcbdc_1_1buffer.html#a170db2df3d405d2c9696a620c0c8ffcd" title="Creates a new buffer from the provided hex string." alt="" coords="318,1252,464,1277"/>
 <area shape="poly" id="edge19_Node000021_Node000023" title=" " alt="" coords="256,1255,302,1257,302,1263,255,1260"/>
 <area shape="rect" id="Node000025" href="$namespacecbdc_1_1config.html#a07d2b72eb67ab0fb8041eedcc392d2b1" title="Checks a fully populated options struct for invariants." alt="" coords="326,413,456,454"/>
 <area shape="poly" id="edge21_Node000024_Node000025" title=" " alt="" coords="240,478,310,456,312,461,241,483"/>
-<area shape="rect" id="Node000026" href="$namespacecbdc_1_1config.html#a976ec9d4e8d687e2b4228201446e9c97" title="Read options from the given config file without checking invariants." alt="" coords="331,479,451,519"/>
+<area shape="rect" id="Node000026" href="$namespacecbdc_1_1config.html#a976ec9d4e8d687e2b4228201446e9c97" title="Read options from the given config file without checking invariants." alt="" coords="330,479,451,519"/>
 <area shape="poly" id="edge22_Node000024_Node000026" title=" " alt="" coords="241,496,315,496,315,502,241,502"/>
 <area shape="rect" id="Node000027" href="$namespacecbdc_1_1config.html#a5224eaf079999b3be86212b3f18c77fa" title=" " alt="" coords="534,413,657,454"/>
 <area shape="poly" id="edge23_Node000026_Node000027" title=" " alt="" coords="450,477,518,455,520,461,452,482"/>
@@ -74,11 +74,11 @@
 <area shape="poly" id="edge25_Node000027_Node000030" title=" " alt="" coords="657,417,709,405,710,410,658,422"/>
 <area shape="rect" id="Node000031" href="$namespacecbdc_1_1config.html#a6956a90b162eeb0bde5ebf8449f5a4f7" title=" " alt="" coords="725,429,891,470"/>
 <area shape="poly" id="edge26_Node000027_Node000031" title=" " alt="" coords="658,436,709,440,709,445,657,441"/>
-<area shape="rect" id="Node000033" href="$namespacecbdc_1_1config.html#a8292b9ea9f3c076b4cb7cf721fdb1bb7" title=" " alt="" coords="723,495,893,535"/>
+<area shape="rect" id="Node000033" href="$namespacecbdc_1_1config.html#a8292b9ea9f3c076b4cb7cf721fdb1bb7" title=" " alt="" coords="723,495,892,535"/>
 <area shape="poly" id="edge28_Node000032_Node000033" title=" " alt="" coords="659,536,707,528,708,533,660,541"/>
-<area shape="rect" id="Node000034" href="$namespacecbdc_1_1config.html#a5bddebc2dacbe954cd429500d25bd773" title=" " alt="" coords="723,560,893,601"/>
+<area shape="rect" id="Node000034" href="$namespacecbdc_1_1config.html#a5bddebc2dacbe954cd429500d25bd773" title=" " alt="" coords="723,560,892,601"/>
 <area shape="poly" id="edge29_Node000032_Node000034" title=" " alt="" coords="660,555,708,563,707,568,659,560"/>
-<area shape="rect" id="Node000035" href="$namespacecbdc_1_1config.html#aa924d1d331dca2429f56edbf0b338789" title=" " alt="" coords="723,625,893,666"/>
+<area shape="rect" id="Node000035" href="$namespacecbdc_1_1config.html#aa924d1d331dca2429f56edbf0b338789" title=" " alt="" coords="723,625,892,666"/>
 <area shape="poly" id="edge30_Node000032_Node000035" title=" " alt="" coords="634,567,717,610,733,617,731,622,715,615,631,572"/>
 <area shape="rect" id="Node000037" href="$namespacecbdc_1_1config.html#a70bb8028d224475bf2d123cee8f1511d" title=" " alt="" coords="716,887,900,927"/>
 <area shape="poly" id="edge32_Node000036_Node000037" title=" " alt="" coords="653,762,670,775,687,800,694,825,700,848,718,872,723,876,719,880,714,876,695,851,689,826,682,802,666,778,650,766"/>
@@ -94,16 +94,16 @@
 <area shape="poly" id="edge38_Node000042_Node000044" title=" " alt="" coords="655,827,670,840,684,862,691,883,693,924,696,963,703,983,718,1003,730,1013,727,1017,714,1006,698,985,691,964,688,924,686,884,679,864,666,843,652,831"/>
 <area shape="poly" id="edge40_Node000045_Node000044" title=" " alt="" coords="653,893,670,905,687,931,694,956,700,979,718,1002,730,1012,727,1016,714,1006,695,981,689,957,682,933,666,909,650,897"/>
 <area shape="poly" id="edge45_Node000046_Node000003" title=" " alt="" coords="652,313,666,301,682,274,689,248,689,221,687,195,684,169,686,143,695,116,714,89,721,82,725,86,718,93,699,118,691,144,690,169,692,195,695,221,694,248,687,276,670,305,656,317"/>
-<area shape="rect" id="Node000047" href="$namespacecbdc_1_1config.html#a26c6481b70e8a63d9ade96344838d50e" title=" " alt="" coords="725,103,891,143"/>
+<area shape="rect" id="Node000047" href="$namespacecbdc_1_1config.html#a26c6481b70e8a63d9ade96344838d50e" title=" " alt="" coords="725,103,890,143"/>
 <area shape="poly" id="edge42_Node000046_Node000047" title=" " alt="" coords="651,313,666,301,678,283,685,265,688,229,692,192,699,173,714,155,717,151,721,155,718,158,704,176,697,193,693,229,690,266,683,285,670,305,655,318"/>
-<area shape="rect" id="Node000048" href="$namespacecbdc_1_1config.html#abcec88d37e7e0298bcd244767d639be5" title=" " alt="" coords="725,168,891,209"/>
+<area shape="rect" id="Node000048" href="$namespacecbdc_1_1config.html#abcec88d37e7e0298bcd244767d639be5" title=" " alt="" coords="725,168,890,209"/>
 <area shape="poly" id="edge43_Node000046_Node000048" title=" " alt="" coords="649,313,666,301,681,281,689,261,697,240,714,220,720,215,723,219,718,224,701,243,694,263,686,283,670,305,652,318"/>
-<area shape="rect" id="Node000050" href="$namespacecbdc_1_1config.html#ae4f0a1a6ed533a8434dbbbd00b8af9bb" title=" " alt="" coords="725,233,891,274"/>
+<area shape="rect" id="Node000050" href="$namespacecbdc_1_1config.html#ae4f0a1a6ed533a8434dbbbd00b8af9bb" title=" " alt="" coords="725,233,890,274"/>
 <area shape="poly" id="edge44_Node000046_Node000050" title=" " alt="" coords="645,313,715,285,733,278,735,283,717,289,647,318"/>
 <area shape="poly" id="edge48_Node000058_Node000003" title=" " alt="" coords="642,117,715,88,739,81,741,86,717,94,644,122"/>
 <area shape="poly" id="edge51_Node000068_Node000017" title=" " alt="" coords="446,1166,527,1170,527,1175,446,1171"/>
 <area shape="poly" id="edge52_Node000068_Node000019" title=" " alt="" coords="442,1177,476,1187,527,1205,526,1210,475,1192,440,1182"/>
-<area shape="rect" id="Node000070" href="$classcbdc_1_1client.html#a34d48b9a1d6df47124403a4abad7ca9e" title="Generates a new wallet address that other clients can use to send money to this client using send." alt="" coords="306,1301,475,1327"/>
+<area shape="rect" id="Node000070" href="$classcbdc_1_1client.html#a34d48b9a1d6df47124403a4abad7ca9e" title="Generates a new wallet address that other clients can use to send money to this client using send." alt="" coords="306,1301,475,1326"/>
 <area shape="poly" id="edge54_Node000069_Node000070" title=" " alt="" coords="259,1304,291,1306,290,1311,258,1310"/>
 <area shape="poly" id="edge57_Node000071_Node000006" title=" " alt="" coords="237,1100,300,1100,300,1106,237,1106"/>
 <area shape="poly" id="edge58_Node000071_Node000007" title=" " alt="" coords="237,1087,324,1067,325,1072,238,1092"/>

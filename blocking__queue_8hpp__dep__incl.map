@@ -1,5 +1,5 @@
 <map id="blocking_queue.hpp" name="blocking_queue.hpp">
-<area shape="rect" id="Node000001" title=" " alt="" coords="1415,5,1550,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="1414,5,1550,31"/>
 <area shape="rect" id="Node000002" href="$uhs_2atomizer_2watchtower_2client_8hpp.html" title="Client helpers for interfacing with a watchtower server." alt="" coords="33,226,110,252"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1399,24,1100,40,911,57,723,82,542,116,366,158,111,229,110,223,365,153,541,111,722,76,911,52,1099,35,1399,19"/>
 <area shape="rect" id="Node000007" href="$http__server_8hpp.html" title=" " alt="" coords="1979,447,2089,473"/>
@@ -49,11 +49,11 @@
 <area shape="poly" id="edge39_Node000011_Node000041" title=" " alt="" coords="672,184,377,229,359,232,358,227,376,224,671,179"/>
 <area shape="rect" id="Node000043" href="$uhs_2atomizer_2watchtower_2controller_8hpp.html" title=" " alt="" coords="1006,226,1105,252"/>
 <area shape="poly" id="edge43_Node000011_Node000043" title=" " alt="" coords="833,180,1007,223,1006,228,831,185"/>
-<area shape="rect" id="Node000044" href="$watchtowerd_8cpp.html" title=" " alt="" coords="1073,300,1193,326"/>
+<area shape="rect" id="Node000044" href="$watchtowerd_8cpp.html" title=" " alt="" coords="1073,300,1192,326"/>
 <area shape="poly" id="edge61_Node000011_Node000044" title=" " alt="" coords="868,169,940,175,1014,186,1077,202,1101,212,1119,224,1131,242,1136,263,1137,300,1132,300,1131,264,1126,244,1115,228,1099,217,1075,207,1013,191,939,180,867,174"/>
 <area shape="rect" id="Node000045" href="$uhs_2twophase_2coordinator_2controller_8hpp.html" title=" " alt="" coords="806,300,905,326"/>
 <area shape="poly" id="edge45_Node000011_Node000045" title=" " alt="" coords="786,190,851,298,846,301,782,193"/>
-<area shape="rect" id="Node000051" href="$uhs_2sentinel_2interface_8hpp.html" title=" " alt="" coords="535,300,630,326"/>
+<area shape="rect" id="Node000051" href="$uhs_2sentinel_2interface_8hpp.html" title=" " alt="" coords="534,300,630,326"/>
 <area shape="poly" id="edge47_Node000011_Node000051" title=" " alt="" coords="722,187,686,205,651,228,615,266,591,301,587,298,611,263,647,224,683,200,720,182"/>
 <area shape="rect" id="Node000060" href="$node_8hpp.html" title=" " alt="" coords="858,226,931,252"/>
 <area shape="poly" id="edge49_Node000011_Node000060" title=" " alt="" coords="804,184,874,223,871,228,802,189"/>

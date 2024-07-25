@@ -2,9 +2,9 @@
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,184,119,210"/>
 <area shape="rect" id="Node000002" href="$namespacecbdc_1_1address.html#a32c013cd0545a42a1d5e997881e53aed" title=" " alt="" coords="167,159,316,184"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,186,151,182,152,187,120,191"/>
-<area shape="rect" id="Node000003" href="$client-cli_8cpp.html#afdc2f698f7384cbc9b825c591371f599" title=" " alt="" coords="190,208,293,234"/>
+<area shape="rect" id="Node000003" href="$client-cli_8cpp.html#afdc2f698f7384cbc9b825c591371f599" title=" " alt="" coords="190,208,292,234"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,202,175,209,175,215,119,207"/>
-<area shape="rect" id="Node000004" href="$classcbdc_1_1client.html#ab78fb6f2b72e00d461c07618fedea288" title="Extracts the transaction data that recipients need from senders to confirm pending transfers." alt="" coords="367,57,494,97"/>
+<area shape="rect" id="Node000004" href="$classcbdc_1_1client.html#ab78fb6f2b72e00d461c07618fedea288" title="Extracts the transaction data that recipients need from senders to confirm pending transfers." alt="" coords="366,56,494,97"/>
 <area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="292,207,314,195,331,176,339,157,346,136,362,114,373,104,376,108,366,117,351,138,344,158,335,179,318,199,294,212"/>
 <area shape="rect" id="Node000010" href="$namespacecbdc.html#aed9c6313b2ae6e3d7f01340ab5a3076b" title="Serialize object into nuraft::buffer using a cbdc::nuraft_serializer." alt="" coords="547,163,673,188"/>
 <area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="291,205,315,195,328,185,337,175,348,165,363,157,410,147,459,145,506,149,548,156,547,161,505,154,459,150,411,152,365,162,351,169,341,179,332,189,317,199,293,210"/>
@@ -12,7 +12,7 @@
 <area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="293,210,355,200,356,206,293,216"/>
 <area shape="rect" id="Node000013" href="$namespacecbdc.html#aeca0663c5237402736e3127369854cb5" title="Converts a hash to a hexadecimal string." alt="" coords="378,236,483,262"/>
 <area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="293,226,363,236,362,241,293,231"/>
-<area shape="rect" id="Node000014" href="$namespacecbdc_1_1transaction_1_1validation.html#a52fdff156ea9b66122ad1e02b03c84f5" title=" " alt="" coords="364,286,496,327"/>
+<area shape="rect" id="Node000014" href="$namespacecbdc_1_1transaction_1_1validation.html#a52fdff156ea9b66122ad1e02b03c84f5" title=" " alt="" coords="364,286,496,326"/>
 <area shape="poly" id="edge13_Node000003_Node000014" title=" " alt="" coords="273,232,371,277,369,282,271,237"/>
 <area shape="rect" id="Node000015" href="$namespacecbdc_1_1transaction.html#a43a4b189920471ef5363e91bc908a892" title="Calculates the unique hash of a full transaction." alt="" coords="368,351,493,392"/>
 <area shape="poly" id="edge14_Node000003_Node000015" title=" " alt="" coords="256,232,302,281,366,336,373,341,370,345,362,340,298,285,252,236"/>
@@ -20,7 +20,7 @@
 <area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="494,74,529,74,529,80,494,80"/>
 <area shape="rect" id="Node000006" href="$namespacecbdc_1_1transaction_1_1validation.html#a1f44c99a0ee81639bae8c5e0c783fd95" title=" " alt="" coords="724,14,876,70"/>
 <area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="676,62,708,56,709,61,677,67"/>
-<area shape="rect" id="Node000009" href="$namespacecbdc_1_1transaction.html#a565b4f45e6f928ae432420f675fd3860" title="Converts the output at the specified index to an input." alt="" coords="737,94,863,135"/>
+<area shape="rect" id="Node000009" href="$namespacecbdc_1_1transaction.html#a565b4f45e6f928ae432420f675fd3860" title="Converts the output at the specified index to an input." alt="" coords="737,94,862,134"/>
 <area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="677,87,722,96,721,102,676,92"/>
 <area shape="rect" id="Node000007" href="$namespacecbdc.html#a683b1822c4294075ddecf27a8774d76e" title="Calculates the SHA256 hash of the specified data." alt="" coords="924,5,1039,31"/>
 <area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="876,29,908,25,909,30,877,35"/>

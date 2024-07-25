@@ -1,9 +1,9 @@
 <map id="cbdc::transaction::validation::check_p2pk_witness_signature" name="cbdc::transaction::validation::check_p2pk_witness_signature">
 <area shape="rect" id="Node000001" title=" " alt="" coords="5,5,158,61"/>
 <area shape="rect" id="Node000002" href="$namespacecbdc_1_1transaction.html#a43a4b189920471ef5363e91bc908a892" title="Calculates the unique hash of a full transaction." alt="" coords="206,13,331,54"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,31,190,31,190,36,158,36"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,30,190,30,190,36,158,36"/>
 <area shape="rect" id="Node000003" href="$namespacecbdc.html#aed9c6313b2ae6e3d7f01340ab5a3076b" title="Serialize object into nuraft::buffer using a cbdc::nuraft_serializer." alt="" coords="379,20,505,46"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="331,31,364,31,364,36,331,36"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="331,30,364,30,364,36,331,36"/>
 <area shape="rect" id="Node000004" href="$namespacecbdc.html#a4dd685b58c8cf66f4489ab808915ab85" title="Calculates the serialized size in bytes of the given object when serialized using serializer." alt="" coords="553,20,693,46"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="506,31,538,31,538,36,506,36"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="506,30,538,30,538,36,506,36"/>
 </map>

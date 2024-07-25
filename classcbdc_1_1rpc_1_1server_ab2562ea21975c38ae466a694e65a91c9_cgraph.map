@@ -1,5 +1,5 @@
 <map id="cbdc::rpc::server::deserialize_request" name="cbdc::rpc::server::deserialize_request">
 <area shape="rect" id="Node000001" title="Deserializes a request from a buffer." alt="" coords="5,5,138,46"/>
-<area shape="rect" id="Node000002" href="$namespacecbdc.html#a39d62e54e1e49c05927fdbb302b815d5" title="Deserialize object of given type from a nuraft::buffer." alt="" coords="186,13,306,39"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc.html#a39d62e54e1e49c05927fdbb302b815d5" title="Deserialize object of given type from a nuraft::buffer." alt="" coords="186,13,306,38"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,23,170,23,170,28,138,28"/>
 </map>

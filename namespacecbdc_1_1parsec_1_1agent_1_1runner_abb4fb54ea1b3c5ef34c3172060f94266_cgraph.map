@@ -1,6 +1,6 @@
 <map id="cbdc::parsec::agent::runner::contract_address" name="cbdc::parsec::agent::runner::contract_address">
-<area shape="rect" id="Node000001" title="Calculates a contract address for the CREATE call keccak256(rlp([sender,nonce]))" alt="" coords="5,74,175,115"/>
-<area shape="rect" id="Node000002" href="$namespacecbdc.html#ad4fab703f5eb66331e79abda8cffba00" title="Calculates the Keccak256 hash of the specified data." alt="" coords="231,5,361,31"/>
+<area shape="rect" id="Node000001" title="Calculates a contract address for the CREATE call keccak256(rlp([sender,nonce]))" alt="" coords="5,74,175,114"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc.html#ad4fab703f5eb66331e79abda8cffba00" title="Calculates the Keccak256 hash of the specified data." alt="" coords="231,5,360,31"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,71,243,34,245,39,148,76"/>
 <area shape="rect" id="Node000003" href="$namespacecbdc.html#aed9c6313b2ae6e3d7f01340ab5a3076b" title="Serialize object into nuraft::buffer using a cbdc::nuraft_serializer." alt="" coords="417,107,543,132"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,87,268,86,369,92,417,100,416,105,369,97,268,91,175,92"/>

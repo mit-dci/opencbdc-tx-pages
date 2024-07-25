@@ -1,6 +1,6 @@
 <map id="cbdc::rlp_value::assign" name="cbdc::rlp_value::assign">
 <area shape="rect" id="Node000001" title="Assigns the given data to the internal buffer of this rlp_value can only be used for rlp_value instan..." alt="" coords="5,81,157,107"/>
-<area shape="rect" id="Node000002" href="$classcbdc_1_1buffer.html#a0b052c199c282af8b5509ad5a18ef590" title="Removes any existing content in the buffer making its size 0." alt="" coords="213,5,335,31"/>
+<area shape="rect" id="Node000002" href="$classcbdc_1_1buffer.html#a0b052c199c282af8b5509ad5a18ef590" title="Removes any existing content in the buffer making its size 0." alt="" coords="213,5,334,31"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,78,224,34,226,39,117,83"/>
 <area shape="rect" id="Node000003" href="$classcbdc_1_1buffer.html#a06b7affff5f9d9cd9845c7a78d72ec76" title="Returns a raw pointer to the start of the buffer data." alt="" coords="391,81,509,107"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,92,375,92,375,97,157,97"/>
