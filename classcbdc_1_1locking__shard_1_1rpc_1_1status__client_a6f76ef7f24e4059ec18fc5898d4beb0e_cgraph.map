@@ -1,7 +1,5 @@
 <map id="cbdc::locking_shard::rpc::status_client::operator=" name="cbdc::locking_shard::rpc::status_client::operator=">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,20,141,75"/>
-<area shape="rect" id="Node000002" href="$classcbdc_1_1rpc_1_1client.html#a2765b617449d34c7fc72eec012f02046" title="Issues the given request with an optional timeout, then waits for and returns the response." alt="" coords="189,5,325,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,34,173,29,174,34,142,39"/>
-<area shape="rect" id="Node000003" href="$namespacecbdc_1_1config.html#accbad9a301a3d8a1921e60b9a756954e" title="Checks if a hash is in the given range handled." alt="" coords="195,55,318,96"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,55,180,61,180,66,141,60"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,141,61"/>
+<area shape="rect" id="Node000002" href="$namespacecbdc_1_1config.html#accbad9a301a3d8a1921e60b9a756954e" title="Checks if a hash is in the given range handled." alt="" coords="189,13,312,54"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,30,173,30,173,36,141,36"/>
 </map>
