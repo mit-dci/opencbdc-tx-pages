@@ -1,19 +1,19 @@
 <map id="cbdc::blocking_queue_internal&lt; T, Q &gt;" name="cbdc::blocking_queue_internal&lt; T, Q &gt;">
-<area shape="rect" id="Node000001" title="Thread&#45;safe producer&#45;consumer FIFO queue supporting multiple concurrent producers and consumers." alt="" coords="5,278,151,318"/>
+<area shape="rect" id="Node000001" title="Thread&#45;safe producer&#45;consumer FIFO queue supporting multiple concurrent producers and consumers." alt="" coords="5,278,151,319"/>
 <area shape="rect" id="Node000002" href="$classcbdc_1_1blocking__queue__internal.html" title=" " alt="" coords="385,10,549,66"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,262,94,221,111,175,137,129,154,108,173,91,222,62,277,44,333,35,384,31,384,37,333,40,279,49,225,67,176,95,158,112,141,132,116,177,99,223,88,263"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,262,94,222,111,175,137,129,154,109,173,91,222,62,277,44,333,35,384,32,384,37,333,40,279,49,225,67,176,95,158,112,141,132,116,177,99,223,88,263"/>
 <area shape="rect" id="Node000003" href="$classcbdc_1_1blocking__queue__internal.html" title=" " alt="" coords="394,90,540,146"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="98,263,130,223,151,203,173,186,228,160,286,141,343,128,394,121,394,126,344,133,287,146,230,165,176,191,154,207,134,226,102,266"/>
-<area shape="rect" id="Node000004" href="$classcbdc_1_1blocking__queue__internal.html" title=" " alt="" coords="394,170,540,210"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="131,268,174,250,289,219,393,198,394,203,290,224,176,255,133,273"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="97,263,130,222,150,202,173,185,228,159,286,140,343,128,393,120,394,126,343,133,287,145,230,164,176,190,154,206,134,226,102,267"/>
+<area shape="rect" id="Node000004" href="$classcbdc_1_1blocking__queue__internal.html" title=" " alt="" coords="394,170,540,211"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="131,268,174,250,289,219,393,198,394,204,290,224,176,255,133,273"/>
 <area shape="rect" id="Node000005" href="$classcbdc_1_1blocking__queue__internal.html" title=" " alt="" coords="394,234,540,290"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="166,287,394,266,394,271,166,293"/>
-<area shape="rect" id="Node000006" href="$classcbdc_1_1blocking__queue__internal.html" title=" " alt="" coords="384,314,550,354"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="167,305,175,306,384,325,383,330,174,312,166,311"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="166,288,394,266,394,272,166,293"/>
+<area shape="rect" id="Node000006" href="$classcbdc_1_1blocking__queue__internal.html" title=" " alt="" coords="384,314,550,355"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="167,306,175,307,384,325,383,331,174,312,166,311"/>
 <area shape="rect" id="Node000007" href="$classcbdc_1_1blocking__queue__internal.html" title=" " alt="" coords="386,378,548,434"/>
-<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="129,324,176,344,284,374,386,393,385,398,283,379,174,349,127,328"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="131,324,176,343,285,373,386,392,385,398,283,378,174,348,129,328"/>
 <area shape="rect" id="Node000008" href="$classcbdc_1_1blocking__queue__internal.html" title=" " alt="" coords="391,458,542,514"/>
-<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="101,330,133,372,154,392,176,409,229,436,285,456,341,469,391,477,390,482,340,474,283,461,226,441,173,414,150,396,129,375,97,333"/>
-<area shape="rect" id="Node000009" href="$classcbdc_1_1blocking__queue__internal.html" title=" " alt="" coords="389,537,544,608"/>
-<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="88,333,98,374,115,422,141,469,157,490,176,509,226,539,281,558,337,568,389,572,389,577,337,573,280,563,224,543,173,513,153,494,136,472,110,424,93,376,82,334"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="102,330,134,371,154,390,176,407,229,434,285,454,341,468,391,476,390,482,340,473,284,459,227,439,173,412,150,394,130,374,98,333"/>
+<area shape="rect" id="Node000009" href="$classcbdc_1_1blocking__queue__internal.html" title=" " alt="" coords="389,538,544,608"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="88,333,98,373,115,421,141,467,157,488,176,506,226,536,281,556,337,567,389,571,389,577,337,572,280,561,224,541,173,510,153,492,137,470,111,423,93,375,83,334"/>
 </map>
